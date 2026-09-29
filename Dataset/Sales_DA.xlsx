@@ -1,0 +1,1001 @@
+Order_ID	Order_Date	Customer	Product	Category	City	Region	Salesperson	Quantity	Unit_Price	Discount	Cost	Payment_Mode	Rating
+ORD10955	2025-01-01 00:00:00	Manish	T-Shirt	Clothing	Chennai	South	Amit	2	1133.29	0.15	1356.03	Card	4.5
+ORD10923	2025-01-02 00:00:00	Vivek	Shampoo	Beauty	Jaipur	North	Pooja	12	509.88	0	4146.57	UPI	4.5
+ORD10256	2025-01-03 00:00:00	Rohan	Sneakers	Clothing	Lucknow	North	Priya	3	5384.79	0.1	9460.67	UPI	4
+ORD10453	2025-01-03 00:00:00	Arjun	T-Shirt	Clothing	Ahmedabad	West	Sneha	3	1197.64	0.1	1980.57	UPI	3
+ORD10297	2025-01-06 00:00:00	Riya	Coffee	Grocery	Bhubaneswar	East	Priya	5	514.21	0	1904.76	UPI	3.5
+ORD10876	2025-01-06 00:00:00	Ananya	Monitor	Electronics	Delhi	North	Vikram	7	14868.14	0.1	64768.48	UPI	3
+ORD10142	2025-01-07 00:00:00	Neha	Office Chair	Furniture	Ahmedabad	West	Karan	13	11898.65	0.25	101625.42	UPI	4.5
+ORD10391	2025-01-07 00:00:00	Neha	Lipstick	Beauty	Hyderabad	South	Anjali	15	898.56	0.05	7435.34	Card	3.5
+ORD10709	2025-01-08 00:00:00	Yash	Office Chair	Furniture	Delhi	North	Anjali	1	11812.09	0	8138.14	Cash	2.5
+ORD10349	2025-01-11 00:00:00	Sakshi	Sofa	Furniture	Chennai	South	Karan	7	43976.26	0	211152.92	Online	3
+ORD10789	2025-01-11 00:00:00	Aditi	Jeans	Clothing	Bhubaneswar	East	Priya	1	2557.87	0.1	1362.68	Online	4.5
+ORD10023	2025-01-12 00:00:00	Ananya	Desk	Furniture	Bengaluru	South	Sneha	14	14705.73	0.1	139071.9	Online	4.5
+ORD10927	2025-01-13 00:00:00	Sanya	Office Chair	Furniture	Jaipur	North	Amit	1	11635.16	0.1	8415.24	Online	3
+ORD10775	2025-01-13 00:00:00	Aarav	Dry Fruits	Grocery	Pune	West	Sneha	8	904.95	0.15	5407.55	UPI	4
+ORD10703	2025-01-13 00:00:00	Manish	Bookshelf	Furniture	Jaipur	North	Priya	2	8785.33	0.1	12199.3	Card	3.5
+ORD10656	2025-01-14 00:00:00	Akash	Headphones	Electronics	Pune	West	Karan	4	3739.4	0	8755.95	Card	4
+ORD10385	2025-01-17 00:00:00	Nitin	Tea	Grocery	Ahmedabad	West	Anjali	3	322.27	0.05	599.43	Card	2.5
+ORD10070	2025-01-17 00:00:00	Zoya	Lipstick	Beauty	Bengaluru	South	Karan	4	895.84	0.2	2057.82	Online	3
+ORD10839	2025-01-18 00:00:00	Ishaan	Backpack	Clothing	Hyderabad	South	Rohan	2	1844.33	0.1	2101.43	UPI	4.5
+ORD10332	2025-01-18 00:00:00	Aditi	Coffee	Grocery	Kolkata	East	Vikram	15	506.91	0.1	5786.3	UPI	3
+ORD10040	2025-01-19 00:00:00	Tanvi	Jeans	Clothing	Lucknow	North	Sneha	2	2474.94	0.15	2945.37	Card	3
+ORD10367	2025-01-19 00:00:00	Simran	Moisturizer	Beauty	Mumbai	West	Priya	3	673.82	0.05	1289.57	Card	3.5
+ORD10633	2025-01-19 00:00:00	Ishaan	Jacket	Clothing	Jaipur	North	Pooja	6	4698.12	0.2	16790.27	Cash	2.5
+ORD10101	2025-01-20 00:00:00	Tanya	Laptop	Electronics	Hyderabad	South	Priya	6	63175.36	0.05	297735.11	Card	4
+ORD10264	2025-01-21 00:00:00	Rohan	Jacket	Clothing	Patna	East	Vikram	13	4842.32	0	36201.26	Online	4.5
+ORD10009	2025-01-22 00:00:00	Sakshi	Backpack	Clothing	Ahmedabad	West	Karan	3	1856.23	0.2	2871.17	Cash	3
+ORD10093	2025-01-22 00:00:00	Varun	Coffee	Grocery	Delhi	North	Karan	9	549.49	0.15	3515.16	Cash	3
+ORD10137	2025-01-25 00:00:00	Diya	Jacket	Clothing	Hyderabad	South	Sneha	1	4153.63	0.05	2549.63	UPI	3
+ORD10407	2025-01-25 00:00:00	Diya	T-Shirt	Clothing	Chennai	South	Pooja	4	1268.58	0.05	2459.1	Cash	4
+ORD10589	2025-01-27 00:00:00	Manish	Headphones	Electronics	Patna	East	Sneha	3	3664.32	0	6928.62	Online	4
+ORD10710	2025-01-29 00:00:00	Aditya	Cooking Oil	Grocery	Chennai	South	Amit	3	181.46	0	392.88	UPI	2.5
+ORD10060	2025-01-29 00:00:00	Pooja	Bookshelf	Furniture	Chennai	South	Neha	10	8381.33	0.15	58912	Card	2.5
+ORD10787	2025-01-31 00:00:00	Aditi	Backpack	Clothing	Kolkata	East	Sneha	3	1720.77	0	2847.58	Card	4.5
+ORD10823	2025-02-01 00:00:00	Zoya	Bookshelf	Furniture	Hyderabad	South	Pooja	3	8641.67	0.05	17617.58	UPI	5
+ORD10036	2025-02-02 00:00:00	Nitin	Dry Fruits	Grocery	Bengaluru	South	Karan	1	895.68	0.05	677.92	Online	4.5
+ORD10776	2025-02-05 00:00:00	Riya	Monitor	Electronics	Mumbai	West	Priya	8	13780.12	0.05	77978.81	UPI	4.5
+ORD10833	2025-02-07 00:00:00	Tanya	Headphones	Electronics	Chennai	South	Rahul	4	3258.86	0.25	9119.63	Card	3
+ORD10260	2025-02-07 00:00:00	Kavya	Headphones	Electronics	Kolkata	East	Amit	4	3626.9	0.05	9252.74	Online	4
+ORD10300	2025-02-08 00:00:00	Sanya	Smartphone	Electronics	Kolkata	East	Rohan	2	28597.3	0.05	39582.21	UPI	3
+ORD10178	2025-02-08 00:00:00	Manish	Sofa	Furniture	Jaipur	North	Rohan	8	46971.37	0.1	243784.87	Card	3.5
+ORD10770	2025-02-08 00:00:00	Karan	Face Wash	Beauty	Pune	West	Vikram	4	423.11	0.1	1108.51	UPI	3
+ORD10825	2025-02-09 00:00:00	Meera	Sneakers	Clothing	Chennai	South	Amit	10	4916.99	0.05	29663.85	UPI	4.5
+ORD10456	2025-02-09 00:00:00	Arjun	Jacket	Clothing	Kolkata	East	Rohan	1	4377.1	0.1	2675.23	Cash	4
+ORD10519	2025-02-09 00:00:00	Neha	Lipstick	Beauty	Jaipur	North	Priya	4	892.51	0.2	1985.35	Online	2.5
+ORD10173	2025-02-10 00:00:00	Rohan	Jacket	Clothing	Bhubaneswar	East	Amit	1	4675.77	0.25	2799.08	Online	3.5
+ORD10970	2025-02-11 00:00:00	Yash	Jeans	Clothing	Mumbai	West	Rahul	12	2621.22	0.1	17388.06	Cash	4.5
+ORD10691	2025-02-12 00:00:00	Riya	Bookshelf	Furniture	Hyderabad	South	Neha	12	9354.04	0.2	72061.17	UPI	2.5
+ORD10171	2025-02-12 00:00:00	Yash	Cooking Oil	Grocery	Chennai	South	Sneha	3	178.76	0.05	426.49	Card	3.5
+ORD10956	2025-02-13 00:00:00	Pooja	Sofa	Furniture	Patna	East	Priya	10	44766.32	0.05	306436.99	Card	3
+ORD10494	2025-02-13 00:00:00	Karan	Keyboard	Electronics	Delhi	North	Priya	1	2252.28	0.25	1270.27	Online	4.5
+ORD10323	2025-02-14 00:00:00	Manish	Cooking Oil	Grocery	Bhubaneswar	East	Anjali	9	190.94	0.05	1148.67	UPI	4.5
+ORD10719	2025-02-14 00:00:00	Aditya	Headphones	Electronics	Pune	West	Anjali	1	3486.04	0.25	2277.43	UPI	3
+ORD10150	2025-02-15 00:00:00	Priya	Desk	Furniture	Mumbai	West	Vikram	2	15492.74	0.1	20565.05	UPI	4.5
+ORD10184	2025-02-16 00:00:00	Tanya	Shampoo	Beauty	Pune	West	Pooja	10	526.95	0.05	3634.52	Card	4.5
+ORD10838	2025-02-17 00:00:00	Sakshi	Dining Table	Furniture	Kolkata	East	Rahul	10	24972.12	0.1	171308.19	Online	4.5
+ORD10478	2025-02-17 00:00:00	Yash	Sneakers	Clothing	Patna	East	Sneha	3	4952.61	0.1	8977.29	Card	3.5
+ORD10640	2025-02-17 00:00:00	Akash	Sofa	Furniture	Patna	East	Karan	12	44082.2	0.1	361393.89	UPI	3
+ORD10772	2025-02-18 00:00:00	Ananya	Face Wash	Beauty	Lucknow	North	Vikram	4	450.97	0.05	1071.5	Card	3.5
+ORD10443	2025-02-18 00:00:00	Akash	Sofa	Furniture	Chennai	South	Priya	12	47193.42	0.15	355835.63	UPI	4
+ORD10038	2025-02-19 00:00:00	Aarav	Headphones	Electronics	Mumbai	West	Neha	7	3348.69	0	15861.11	Online	4.5
+ORD10752	2025-02-19 00:00:00	Karan	Moisturizer	Beauty	Bhubaneswar	East	Priya	4	742.02	0.05	1722.52	Online	3.5
+ORD10283	2025-02-21 00:00:00	Zoya	Sofa	Furniture	Bhubaneswar	East	Rohan	3	43703.13	0.05	94078.7	Card	3.5
+ORD10863	2025-02-22 00:00:00	Sahil	Jacket	Clothing	Hyderabad	South	Sneha	7	4161.84	0.15	20030.82	Card	3.5
+ORD10514	2025-02-23 00:00:00	Aditi	Shampoo	Beauty	Kolkata	East	Karan	1	564.58	0.1	337.98	UPI	4.5
+ORD10157	2025-02-23 00:00:00	Aarav	Cooking Oil	Grocery	Jaipur	North	Karan	2	177.09	0.1	270.72	UPI	4.5
+ORD10762	2025-02-25 00:00:00	Nisha	Desk	Furniture	Bengaluru	South	Sneha	6	14499.32	0.05	62323.7	UPI	4
+ORD10575	2025-02-25 00:00:00	Ananya	Shampoo	Beauty	Kolkata	East	Anjali	5	563.43	0.05	1657.87	UPI	2.5
+ORD10428	2025-02-26 00:00:00	Akash	Shampoo	Beauty	Bengaluru	South	Rohan	6	593.37	0.05	2115.88	Online	3.5
+ORD10907	2025-02-27 00:00:00	Karan	Face Wash	Beauty	Bhubaneswar	East	Priya	2	435.94	0.15	581.67	UPI	4.5
+ORD10457	2025-02-28 00:00:00	Akash	Laptop	Electronics	Lucknow	North	Anjali	10	65745.02	0	503205.69	UPI	3.5
+ORD10690	2025-02-28 00:00:00	Arjun	Keyboard	Electronics	Hyderabad	South	Sneha	10	2352.57	0.1	13320.56	Card	4.5
+ORD10518	2025-02-28 00:00:00	Sakshi	Face Wash	Beauty	Jaipur	North	Karan	3	434.28	0.05	838.05	Card	3
+ORD10035	2025-02-28 00:00:00	Pooja	Moisturizer	Beauty	Bhubaneswar	East	Rahul	1	716.58	0.15	421.68	Cash	4
+ORD10121	2025-02-28 00:00:00	Arjun	Dry Fruits	Grocery	Jaipur	North	Neha	9	909.11	0.1	5953.77	Card	4.5
+ORD10768	2025-03-01 00:00:00	Aditya	Shampoo	Beauty	Lucknow	North	Pooja	8	576.18	0.15	2683.76	Cash	4.5
+ORD10545	2025-03-02 00:00:00	Varun	Rice 5kg	Grocery	Ahmedabad	West	Amit	4	422.18	0.05	1373.38	Card	4.5
+ORD10281	2025-03-02 00:00:00	Aditya	Shampoo	Beauty	Kolkata	East	Vikram	2	549.8	0.05	697.99	Card	4
+ORD10191	2025-03-02 00:00:00	Nitin	Smartphone	Electronics	Chennai	South	Rahul	3	29335.03	0.2	65099.26	Card	4
+ORD10468	2025-03-03 00:00:00	Kavya	Shampoo	Beauty	Lucknow	North	Rahul	5	577.28	0.25	1761.7	Card	4.5
+ORD10539	2025-03-03 00:00:00	Akash	Jeans	Clothing	Kolkata	East	Rohan	3	2344.43	0.1	4088.4	Card	4.5
+ORD10997	2025-03-04 00:00:00	Sakshi	Perfume	Beauty	Patna	East	Sneha	1	1747.89	0.2	1135.27	Card	4.5
+ORD10242	2025-03-04 00:00:00	Aarav	Moisturizer	Beauty	Jaipur	North	Vikram	8	669.07	0.15	3374.13	UPI	4
+ORD10743	2025-03-05 00:00:00	Kavya	Coffee	Grocery	Pune	West	Priya	5	546.43	0.15	2012.13	UPI	4.5
+ORD10674	2025-03-05 00:00:00	Neha	Jacket	Clothing	Chennai	South	Sneha	11	4512.55	0	29458.92	UPI	3
+ORD10805	2025-03-06 00:00:00	Varun	T-Shirt	Clothing	Ahmedabad	West	Priya	12	1180.27	0.2	7583.5	UPI	3
+ORD10126	2025-03-06 00:00:00	Diya	T-Shirt	Clothing	Bhubaneswar	East	Vikram	10	1136.91	0.1	6171.6	UPI	2.5
+ORD10141	2025-03-09 00:00:00	Sakshi	Moisturizer	Beauty	Chennai	South	Rohan	6	712.93	0.05	2658.57	Online	4
+ORD10629	2025-03-09 00:00:00	Rahul	Laptop	Electronics	Bhubaneswar	East	Sneha	1	65644.61	0.05	46354.11	UPI	2.5
+ORD10271	2025-03-10 00:00:00	Riya	Dry Fruits	Grocery	Mumbai	West	Pooja	1	875.24	0.05	662.51	Cash	2.5
+ORD10033	2025-03-10 00:00:00	Pooja	Smartphone	Electronics	Chennai	South	Karan	12	32316.38	0.15	252841.7	Card	3.5
+ORD10187	2025-03-10 00:00:00	Ananya	Face Wash	Beauty	Jaipur	North	Anjali	4	418.98	0	1097.31	Cash	3
+ORD10565	2025-03-11 00:00:00	Rahul	Dining Table	Furniture	Delhi	North	Karan	7	26367.72	0.05	120191.27	UPI	4.5
+ORD10386	2025-03-12 00:00:00	Aarav	Dry Fruits	Grocery	Bhubaneswar	East	Rahul	7	831.25	0.15	4307.44	Cash	4
+ORD10748	2025-03-12 00:00:00	Tanvi	Sneakers	Clothing	Jaipur	North	Priya	2	4764.82	0.05	6236.48	Card	3
+ORD10855	2025-03-13 00:00:00	Simran	Keyboard	Electronics	Delhi	North	Rohan	7	2234.01	0.1	8648.85	Online	3
+ORD10874	2025-03-13 00:00:00	Sakshi	T-Shirt	Clothing	Bengaluru	South	Amit	1	1212.03	0.2	621.51	UPI	3
+ORD10963	2025-03-13 00:00:00	Priya	Office Chair	Furniture	Jaipur	North	Vikram	9	12120.27	0.1	74617.63	Card	3
+ORD10409	2025-03-14 00:00:00	Aarav	Perfume	Beauty	Patna	East	Sneha	6	1795.22	0.25	6412.7	Online	5
+ORD10169	2025-03-14 00:00:00	Yash	Laptop	Electronics	Bhubaneswar	East	Vikram	3	62598.14	0.15	149389.45	Card	3
+ORD10217	2025-03-14 00:00:00	Neha	Bookshelf	Furniture	Patna	East	Neha	2	8964.43	0.05	12004.52	UPI	4
+ORD10114	2025-03-14 00:00:00	Yash	Dry Fruits	Grocery	Bhubaneswar	East	Neha	6	843.24	0	3960.16	Online	4.5
+ORD10727	2025-03-14 00:00:00	Vivek	Headphones	Electronics	Patna	East	Priya	2	3678.26	0.15	4474.37	Card	4.5
+ORD10148	2025-03-14 00:00:00	Ishaan	Jacket	Clothing	Hyderabad	South	Sneha	13	4832.01	0.1	35636.59	Online	4
+ORD10636	2025-03-15 00:00:00	Simran	Jeans	Clothing	Chennai	South	Vikram	2	2571.37	0.05	2836.19	Online	4.5
+ORD10665	2025-03-16 00:00:00	Karan	Headphones	Electronics	Jaipur	North	Priya	6	3290.04	0	12473.73	Cash	4.5
+ORD10308	2025-03-17 00:00:00	Tanya	Bookshelf	Furniture	Bengaluru	South	Vikram	1	9619	0.15	5717.47	Card	3
+ORD10882	2025-03-17 00:00:00	Ishaan	Cooking Oil	Grocery	Mumbai	West	Karan	4	178.46	0	537.26	UPI	4.5
+ORD10581	2025-03-18 00:00:00	Diya	Jeans	Clothing	Mumbai	West	Sneha	1	2395.51	0.1	1456.37	UPI	2.5
+ORD10130	2025-03-20 00:00:00	Ananya	Jacket	Clothing	Pune	West	Karan	2	4315.73	0.15	5570.62	Cash	3
+ORD10078	2025-03-23 00:00:00	Tanya	Smartphone	Electronics	Bhubaneswar	East	Anjali	5	28249.16	0.25	105894.49	Online	3.5
+ORD10445	2025-03-23 00:00:00	Vivek	Face Wash	Beauty	Jaipur	North	Anjali	5	452.73	0	1368.03	UPI	4
+ORD10828	2025-03-23 00:00:00	Tanya	Dining Table	Furniture	Kolkata	East	Sneha	3	25821.45	0.2	51080.88	Online	4.5
+ORD10145	2025-03-24 00:00:00	Sahil	Desk	Furniture	Ahmedabad	West	Amit	7	15383.43	0.2	66950.65	Cash	3.5
+ORD10049	2025-03-25 00:00:00	Ananya	Sneakers	Clothing	Patna	East	Priya	11	5284.66	0	33716.43	Cash	5
+ORD10757	2025-03-25 00:00:00	Akash	Rice 5kg	Grocery	Bhubaneswar	East	Neha	12	414.27	0	4266.21	UPI	5
+ORD10778	2025-03-27 00:00:00	Ananya	Tea	Grocery	Patna	East	Sneha	13	314.75	0.2	2814.32	Card	4
+ORD10306	2025-03-28 00:00:00	Priya	Lipstick	Beauty	Hyderabad	South	Pooja	3	969.97	0	1586.2	UPI	3.5
+ORD10253	2025-03-29 00:00:00	Manish	Face Wash	Beauty	Jaipur	North	Anjali	3	469.51	0	833.47	UPI	2.5
+ORD10724	2025-03-29 00:00:00	Riya	Coffee	Grocery	Delhi	North	Sneha	14	550.72	0.15	5041	Card	3
+ORD10001	2025-03-30 00:00:00	Sanya	Sofa	Furniture	Patna	East	Amit	7	42119.89	0.1	204853.53	UPI	2.5
+ORD10813	2025-03-30 00:00:00	Akash	Headphones	Electronics	Ahmedabad	West	Amit	1	3261.63	0	2326.03	Online	5
+ORD10701	2025-03-31 00:00:00	Aditya	Sneakers	Clothing	Lucknow	North	Pooja	9	5018.16	0	25892.22	Card	4
+ORD10593	2025-04-01 00:00:00	Kavya	Keyboard	Electronics	Pune	West	Neha	6	2149.39	0	7338.81	UPI	2.5
+ORD10240	2025-04-02 00:00:00	Neha	Monitor	Electronics	Pune	West	Rohan	4	13006.34	0.05	39679.43	Online	3.5
+ORD10498	2025-04-02 00:00:00	Aditi	Smartphone	Electronics	Pune	West	Amit	3	27628.44	0.05	62064.08	Online	3.5
+ORD10766	2025-04-03 00:00:00	Manish	Backpack	Clothing	Mumbai	West	Karan	15	1684.38	0.1	15463.43	UPI	4.5
+ORD10411	2025-04-03 00:00:00	Meera	Bookshelf	Furniture	Jaipur	North	Rohan	1	8984.35	0.1	6004.51	UPI	3
+ORD10682	2025-04-03 00:00:00	Priya	Office Chair	Furniture	Hyderabad	South	Pooja	6	12464.32	0.05	49365.1	UPI	4.5
+ORD10375	2025-04-03 00:00:00	Zoya	Smartphone	Electronics	Pune	West	Rahul	1	28761.41	0.05	20441.73	Cash	4.5
+ORD10931	2025-04-04 00:00:00	Sahil	Headphones	Electronics	Ahmedabad	West	Amit	3	3689.67	0.15	6665.09	UPI	2.5
+ORD10702	2025-04-04 00:00:00	Tanya	Smartphone	Electronics	Ahmedabad	West	Amit	7	28198.73	0.1	141502.82	UPI	3
+ORD10003	2025-04-05 00:00:00	Yash	Tea	Grocery	Lucknow	North	Sneha	3	314.2	0.2	617.92	UPI	3
+ORD10791	2025-04-06 00:00:00	Karan	Monitor	Electronics	Patna	East	Amit	3	14029.97	0.05	29612.6	Online	4.5
+ORD10465	2025-04-06 00:00:00	Priya	Moisturizer	Beauty	Bengaluru	South	Vikram	15	692.22	0.1	6424.64	Online	4
+ORD10294	2025-04-07 00:00:00	Neha	Dining Table	Furniture	Delhi	North	Vikram	11	26613.2	0.1	190865.94	UPI	3
+ORD10030	2025-04-07 00:00:00	Akash	Smartphone	Electronics	Bengaluru	South	Amit	3	30285.48	0.15	59329.88	Cash	3.5
+ORD10957	2025-04-08 00:00:00	Varun	Jacket	Clothing	Delhi	North	Karan	7	4463.63	0.15	19970.32	Online	3
+ORD10747	2025-04-08 00:00:00	Arjun	Sofa	Furniture	Pune	West	Rahul	1	47470.88	0.05	30929.25	UPI	4.5
+ORD10086	2025-04-08 00:00:00	Pooja	Bookshelf	Furniture	Patna	East	Anjali	1	9398.14	0.1	5973.41	UPI	4.5
+ORD10120	2025-04-10 00:00:00	Akash	Sneakers	Clothing	Bhubaneswar	East	Sneha	12	5311.07	0.1	34048.76	Card	4.5
+ORD10777	2025-04-11 00:00:00	Akash	Keyboard	Electronics	Bhubaneswar	East	Rohan	6	2332.59	0	7534.46	UPI	3
+ORD10393	2025-04-13 00:00:00	Sakshi	Sofa	Furniture	Bhubaneswar	East	Anjali	6	41656.19	0.05	177891.93	UPI	3.5
+ORD10580	2025-04-14 00:00:00	Nitin	Office Chair	Furniture	Pune	West	Karan	7	11241.14	0	55692.41	Card	4
+ORD10998	2025-04-14 00:00:00	Tanvi	Headphones	Electronics	Pune	West	Rahul	4	3335.87	0	9222.65	UPI	4.5
+ORD10818	2025-04-16 00:00:00	Vivek	T-Shirt	Clothing	Kolkata	East	Rohan	7	1174.86	0.1	4671.27	Cash	4.5
+ORD10809	2025-04-16 00:00:00	Meera	Jeans	Clothing	Kolkata	East	Priya	1	2614.3	0.1	1475.19	Card	4
+ORD10968	2025-04-17 00:00:00	Arjun	Desk	Furniture	Patna	East	Amit	5	14461.34	0.15	51804.86	Card	4.5
+ORD10104	2025-04-18 00:00:00	Aditi	Jacket	Clothing	Hyderabad	South	Pooja	9	4350.46	0	25207.13	Cash	4
+ORD10298	2025-04-19 00:00:00	Priya	Keyboard	Electronics	Kolkata	East	Anjali	8	2318.41	0.2	10812.08	Cash	4.5
+ORD10909	2025-04-19 00:00:00	Sakshi	Office Chair	Furniture	Chennai	South	Karan	7	12273.23	0.25	54495.3	UPI	4.5
+ORD10764	2025-04-20 00:00:00	Manish	Coffee	Grocery	Patna	East	Anjali	7	551.83	0.05	2643.52	Card	5
+ORD10915	2025-04-21 00:00:00	Nisha	Sneakers	Clothing	Patna	East	Sneha	1	4885.99	0	3082.59	Card	2.5
+ORD10181	2025-04-21 00:00:00	Aditya	Bookshelf	Furniture	Hyderabad	South	Pooja	14	8456.58	0	80551.67	Online	2.5
+ORD10801	2025-04-22 00:00:00	Priya	Tea	Grocery	Mumbai	West	Amit	8	313.98	0.1	1631.34	UPI	4
+ORD10688	2025-04-22 00:00:00	Zoya	Desk	Furniture	Hyderabad	South	Vikram	12	15806.59	0	123145.64	Cash	2.5
+ORD10652	2025-04-23 00:00:00	Varun	Sneakers	Clothing	Delhi	North	Karan	1	5151.76	0.2	3126.77	Online	2.5
+ORD10022	2025-04-23 00:00:00	Priya	Headphones	Electronics	Delhi	North	Neha	6	3671.28	0.1	13975.74	Card	4.5
+ORD10614	2025-04-24 00:00:00	Karan	Smartphone	Electronics	Lucknow	North	Rahul	15	30443.72	0.25	328131.95	Card	2.5
+ORD10344	2025-04-25 00:00:00	Nisha	T-Shirt	Clothing	Chennai	South	Rohan	4	1238.99	0.1	2534.94	Online	5
+ORD10995	2025-04-25 00:00:00	Ananya	Dining Table	Furniture	Bhubaneswar	East	Vikram	5	23040.28	0.1	82702.86	Card	3
+ORD10442	2025-04-26 00:00:00	Pooja	Lipstick	Beauty	Patna	East	Rohan	10	843.25	0	4899.64	UPI	3.5
+ORD10694	2025-04-28 00:00:00	Rahul	Office Chair	Furniture	Hyderabad	South	Neha	3	12679.71	0.2	24871.08	Online	4
+ORD10034	2025-04-28 00:00:00	Aditya	Moisturizer	Beauty	Jaipur	North	Vikram	2	732.25	0.05	895.13	Cash	3
+ORD10356	2025-04-28 00:00:00	Kavya	Rice 5kg	Grocery	Pune	West	Neha	5	438.77	0.2	1854.4	Card	4.5
+ORD10571	2025-04-30 00:00:00	Aditi	Jacket	Clothing	Bhubaneswar	East	Karan	2	4355.24	0	5438.77	UPI	3
+ORD10861	2025-04-30 00:00:00	Sahil	Coffee	Grocery	Bhubaneswar	East	Amit	2	524.75	0.1	770.59	Card	2.5
+ORD10257	2025-05-01 00:00:00	Akash	Moisturizer	Beauty	Ahmedabad	West	Neha	1	744.59	0.1	441.95	UPI	3.5
+ORD10462	2025-05-02 00:00:00	Manish	Cooking Oil	Grocery	Jaipur	North	Amit	10	194	0.25	1372.1	Online	4.5
+ORD10231	2025-05-03 00:00:00	Diya	Dry Fruits	Grocery	Pune	West	Karan	2	897.13	0.15	1298.66	Card	4
+ORD10021	2025-05-04 00:00:00	Varun	Rice 5kg	Grocery	Bengaluru	South	Rahul	15	462.54	0.05	5019.09	Card	4.5
+ORD10473	2025-05-04 00:00:00	Arjun	Smartphone	Electronics	Chennai	South	Rohan	4	29982.71	0.05	82044.49	Card	4.5
+ORD10625	2025-05-05 00:00:00	Karan	Rice 5kg	Grocery	Mumbai	West	Amit	9	454.1	0.15	3066.1	Card	4.5
+ORD10024	2025-05-06 00:00:00	Aditya	Dining Table	Furniture	Kolkata	East	Anjali	13	23185.73	0.2	208104.2	Card	2.5
+ORD10354	2025-05-07 00:00:00	Meera	Monitor	Electronics	Lucknow	North	Rahul	1	13829.6	0.05	9005.78	Card	3
+ORD10889	2025-05-07 00:00:00	Rohan	Headphones	Electronics	Pune	West	Pooja	14	3441.96	0.25	29239.69	Cash	4
+ORD10162	2025-05-07 00:00:00	Simran	Rice 5kg	Grocery	Ahmedabad	West	Priya	4	456.42	0.2	1392.34	Online	4.5
+ORD10057	2025-05-08 00:00:00	Priya	Smartphone	Electronics	Bengaluru	South	Vikram	13	29909.7	0	271673.29	Card	3
+ORD10798	2025-05-08 00:00:00	Nisha	Backpack	Clothing	Kolkata	East	Vikram	3	1848.52	0	3046.77	Online	4.5
+ORD10272	2025-05-09 00:00:00	Ishaan	Face Wash	Beauty	Bhubaneswar	East	Rahul	1	466.59	0.25	278.43	Card	4
+ORD10546	2025-05-09 00:00:00	Tanvi	Dining Table	Furniture	Hyderabad	South	Neha	6	26858.49	0.1	102112.88	Online	2.5
+ORD10255	2025-05-09 00:00:00	Arjun	Monitor	Electronics	Chennai	South	Sneha	3	14839.86	0.1	29563.03	Online	4.5
+ORD10853	2025-05-12 00:00:00	Priya	Keyboard	Electronics	Bengaluru	South	Karan	6	2028.43	0.15	7421.86	Cash	4.5
+ORD10111	2025-05-14 00:00:00	Arjun	Desk	Furniture	Kolkata	East	Rahul	5	14846.99	0.1	52831.71	UPI	2.5
+ORD10251	2025-05-15 00:00:00	Priya	Desk	Furniture	Delhi	North	Amit	10	13806.82	0.1	105170.78	UPI	3
+ORD10480	2025-05-16 00:00:00	Kavya	Jacket	Clothing	Ahmedabad	West	Neha	3	4826.39	0.1	8085.55	UPI	3.5
+ORD10143	2025-05-17 00:00:00	Aditya	Jacket	Clothing	Pune	West	Rohan	3	4487.62	0.15	7928.03	Online	4.5
+ORD10363	2025-05-17 00:00:00	Pooja	Jeans	Clothing	Bengaluru	South	Sneha	9	2613.33	0.05	12249.73	UPI	3.5
+ORD10296	2025-05-17 00:00:00	Zoya	Jacket	Clothing	Lucknow	North	Amit	8	4454.61	0	22337.52	Online	3.5
+ORD10626	2025-05-18 00:00:00	Riya	Dining Table	Furniture	Pune	West	Neha	7	24594.26	0.05	114289.46	UPI	4.5
+ORD10425	2025-05-19 00:00:00	Vivek	Smartphone	Electronics	Jaipur	North	Rahul	3	28154.49	0.1	66548.37	UPI	2.5
+ORD10245	2025-05-19 00:00:00	Karan	Laptop	Electronics	Patna	East	Amit	10	63235.2	0.15	452336.2	UPI	3
+ORD10993	2025-05-19 00:00:00	Meera	Office Chair	Furniture	Lucknow	North	Vikram	2	12887.71	0.05	15927.72	Cash	4.5
+ORD10972	2025-05-19 00:00:00	Nisha	Moisturizer	Beauty	Mumbai	West	Neha	3	654.47	0.05	1291.22	UPI	3.5
+ORD10028	2025-05-20 00:00:00	Zoya	Jacket	Clothing	Bengaluru	South	Amit	2	4546.82	0.05	5509.96	Card	4
+ORD10960	2025-05-20 00:00:00	Priya	Tea	Grocery	Mumbai	West	Anjali	6	320.23	0.1	1248.37	Card	4.5
+ORD10274	2025-05-20 00:00:00	Vivek	Perfume	Beauty	Patna	East	Anjali	6	1848.33	0.1	6236.15	Online	4.5
+ORD10374	2025-05-21 00:00:00	Sahil	Cooking Oil	Grocery	Pune	West	Rohan	9	193.97	0.15	1187.26	Card	3
+ORD10048	2025-05-21 00:00:00	Ananya	Jacket	Clothing	Patna	East	Rahul	8	4286.46	0.1	20684.75	UPI	4.5
+ORD10940	2025-05-23 00:00:00	Meera	Backpack	Clothing	Bengaluru	South	Karan	11	1701.11	0	11597.84	UPI	4.5
+ORD10406	2025-05-24 00:00:00	Sanya	Shampoo	Beauty	Kolkata	East	Sneha	10	583.8	0.2	3479.88	Card	3.5
+ORD10717	2025-05-24 00:00:00	Priya	Face Wash	Beauty	Kolkata	East	Anjali	7	462.91	0.15	1901.74	UPI	3
+ORD10804	2025-05-25 00:00:00	Nisha	Rice 5kg	Grocery	Bengaluru	South	Amit	4	449.53	0.05	1463.95	Online	4.5
+ORD10355	2025-05-27 00:00:00	Tanvi	Smartphone	Electronics	Patna	East	Pooja	6	27607.61	0.1	126352.18	UPI	3.5
+ORD10103	2025-05-28 00:00:00	Tanvi	Bookshelf	Furniture	Pune	West	Anjali	4	8344.31	0.15	22669.81	UPI	3.5
+ORD10994	2025-05-29 00:00:00	Sakshi	Backpack	Clothing	Ahmedabad	West	Amit	2	1774.85	0.2	1941.55	Cash	4
+ORD10707	2025-05-30 00:00:00	Rahul	Bookshelf	Furniture	Lucknow	North	Karan	1	8624.02	0.05	5481.11	Online	3.5
+ORD10006	2025-05-31 00:00:00	Zoya	Monitor	Electronics	Delhi	North	Anjali	5	13611.78	0.05	47141.88	UPI	4.5
+ORD10180	2025-05-31 00:00:00	Arjun	Headphones	Electronics	Kolkata	East	Karan	3	3403.55	0.15	6885.18	UPI	2.5
+ORD10284	2025-06-02 00:00:00	Ananya	Smartphone	Electronics	Jaipur	North	Anjali	3	30503.05	0	62849.75	Card	3.5
+ORD10094	2025-06-03 00:00:00	Nisha	Backpack	Clothing	Delhi	North	Amit	8	1766.53	0.25	8427.17	Online	4
+ORD10128	2025-06-03 00:00:00	Sakshi	Shampoo	Beauty	Mumbai	West	Pooja	12	578.73	0	4408.54	Online	3
+ORD10721	2025-06-04 00:00:00	Vivek	Moisturizer	Beauty	Patna	East	Pooja	1	703.8	0	434.95	UPI	3.5
+ORD10660	2025-06-04 00:00:00	Kavya	Backpack	Clothing	Bengaluru	South	Neha	10	1740.25	0.2	10220.67	Cash	3
+ORD10548	2025-06-05 00:00:00	Rohan	Cooking Oil	Grocery	Patna	East	Karan	3	174.92	0.1	381.82	Online	4
+ORD10919	2025-06-05 00:00:00	Manish	Coffee	Grocery	Ahmedabad	West	Vikram	12	565.02	0.15	4616.1	Cash	5
+ORD10699	2025-06-05 00:00:00	Nitin	Monitor	Electronics	Mumbai	West	Karan	14	14920.37	0.1	138016.24	UPI	4
+ORD10193	2025-06-10 00:00:00	Riya	Perfume	Beauty	Pune	West	Anjali	9	1785.01	0.05	9936.2	UPI	4.5
+ORD10559	2025-06-10 00:00:00	Ananya	Coffee	Grocery	Hyderabad	South	Karan	13	572.83	0.15	4829.77	UPI	5
+ORD10144	2025-06-13 00:00:00	Sakshi	Desk	Furniture	Pune	West	Rahul	3	15813.53	0.15	29271.63	UPI	4
+ORD10205	2025-06-13 00:00:00	Tanya	Rice 5kg	Grocery	Kolkata	East	Pooja	3	459.12	0	1073.28	UPI	4.5
+ORD10092	2025-06-15 00:00:00	Karan	Tea	Grocery	Pune	West	Rohan	12	300.6	0.05	2539.41	UPI	3
+ORD10154	2025-06-15 00:00:00	Karan	Jacket	Clothing	Kolkata	East	Pooja	1	4731.18	0.15	2567.92	UPI	4
+ORD10697	2025-06-15 00:00:00	Yash	Desk	Furniture	Jaipur	North	Anjali	5	15243.39	0	52242.93	UPI	3
+ORD10782	2025-06-15 00:00:00	Neha	Sneakers	Clothing	Mumbai	West	Rahul	2	4864.64	0.15	5768.64	Card	4.5
+ORD10611	2025-06-15 00:00:00	Arjun	Laptop	Electronics	Kolkata	East	Pooja	2	68765.88	0.1	99907.5	UPI	3.5
+ORD10653	2025-06-19 00:00:00	Zoya	Backpack	Clothing	Bengaluru	South	Sneha	3	1817.05	0.25	3011.57	Online	3
+ORD10174	2025-06-19 00:00:00	Priya	Keyboard	Electronics	Patna	East	Amit	12	2119.53	0.1	15546.85	Card	3.5
+ORD10933	2025-06-20 00:00:00	Aarav	Lipstick	Beauty	Kolkata	East	Neha	2	930.23	0.2	978.93	UPI	4.5
+ORD10397	2025-06-20 00:00:00	Pooja	Shampoo	Beauty	Hyderabad	South	Priya	7	588.82	0.05	2558.04	Card	4.5
+ORD10370	2025-06-24 00:00:00	Nitin	Smartphone	Electronics	Hyderabad	South	Vikram	2	30812.43	0	39841.95	UPI	4
+ORD10364	2025-06-24 00:00:00	Rahul	Sneakers	Clothing	Delhi	North	Rohan	6	5158.38	0.15	16923.41	UPI	4
+ORD10153	2025-06-25 00:00:00	Manish	Monitor	Electronics	Bhubaneswar	East	Rohan	9	13786.4	0.1	81010.71	UPI	4
+ORD10291	2025-06-26 00:00:00	Nisha	Laptop	Electronics	Patna	East	Anjali	3	62147.94	0.05	135794.41	UPI	4.5
+ORD10883	2025-06-26 00:00:00	Zoya	Laptop	Electronics	Kolkata	East	Karan	11	62490.29	0	541658.06	UPI	4
+ORD10532	2025-06-27 00:00:00	Tanya	Lipstick	Beauty	Pune	West	Rohan	3	864.46	0	1513	Online	4.5
+ORD10728	2025-06-28 00:00:00	Aditi	Dry Fruits	Grocery	Ahmedabad	West	Anjali	1	872.7	0.05	662.18	UPI	2.5
+ORD10017	2025-06-28 00:00:00	Kavya	Desk	Furniture	Kolkata	East	Rohan	2	14724.39	0.05	19619.77	Online	4.5
+ORD10942	2025-06-29 00:00:00	Tanya	Sneakers	Clothing	Delhi	North	Neha	9	4611.36	0.25	25877.07	UPI	2.5
+ORD10810	2025-06-30 00:00:00	Zoya	Headphones	Electronics	Bhubaneswar	East	Neha	2	3419.27	0.1	4267.93	UPI	3
+ORD10722	2025-06-30 00:00:00	Pooja	Keyboard	Electronics	Hyderabad	South	Rahul	14	2035.04	0.15	17479.87	Online	3
+ORD10586	2025-07-01 00:00:00	Diya	Office Chair	Furniture	Hyderabad	South	Rahul	4	12415.4	0.05	30941.15	Online	4.5
+ORD10672	2025-07-01 00:00:00	Diya	Shampoo	Beauty	Patna	East	Rohan	6	543.39	0	2079.1	Online	3
+ORD10700	2025-07-03 00:00:00	Nitin	Jeans	Clothing	Ahmedabad	West	Priya	10	2507.87	0.15	14456.24	Card	3.5
+ORD10811	2025-07-03 00:00:00	Riya	Lipstick	Beauty	Bengaluru	South	Amit	6	916.74	0.05	3119.58	Cash	3
+ORD10875	2025-07-04 00:00:00	Diya	Laptop	Electronics	Hyderabad	South	Rohan	5	61369.53	0.1	248429.11	UPI	3.5
+ORD10439	2025-07-04 00:00:00	Pooja	Tea	Grocery	Bengaluru	South	Priya	10	291.78	0.05	2140.15	UPI	4.5
+ORD10247	2025-07-04 00:00:00	Karan	T-Shirt	Clothing	Jaipur	North	Rahul	2	1127.09	0.05	1257.99	Cash	3
+ORD10227	2025-07-06 00:00:00	Neha	Lipstick	Beauty	Bhubaneswar	East	Karan	2	956.97	0.05	990.78	UPI	3.5
+ORD10857	2025-07-06 00:00:00	Arjun	Laptop	Electronics	Pune	West	Neha	11	60416.81	0.1	515665.45	Card	4
+ORD10842	2025-07-06 00:00:00	Aditi	Cooking Oil	Grocery	Mumbai	West	Pooja	8	186.19	0.1	1094.86	Card	4.5
+ORD10849	2025-07-07 00:00:00	Aarav	Jacket	Clothing	Lucknow	North	Neha	3	4528.52	0.1	7739.42	UPI	4
+ORD10232	2025-07-07 00:00:00	Sanya	Jacket	Clothing	Bhubaneswar	East	Anjali	1	4659.82	0.05	2841.83	Online	4
+ORD10659	2025-07-08 00:00:00	Vivek	Rice 5kg	Grocery	Delhi	North	Anjali	1	458.41	0	354.14	Card	4.5
+ORD10792	2025-07-09 00:00:00	Sanya	Backpack	Clothing	Kolkata	East	Karan	9	1890.96	0.1	9469.58	UPI	4
+ORD10965	2025-07-09 00:00:00	Tanvi	Desk	Furniture	Bengaluru	South	Amit	13	16186.86	0.15	137122.51	Card	4
+ORD10859	2025-07-10 00:00:00	Ishaan	Backpack	Clothing	Patna	East	Rahul	1	1877.8	0.2	956.99	Cash	4
+ORD10647	2025-07-10 00:00:00	Zoya	Backpack	Clothing	Patna	East	Vikram	1	1816.91	0	1014.99	Card	4
+ORD10794	2025-07-11 00:00:00	Meera	Rice 5kg	Grocery	Bengaluru	South	Amit	2	457.87	0	697.26	Card	3
+ORD10765	2025-07-11 00:00:00	Tanya	Laptop	Electronics	Hyderabad	South	Anjali	9	62463.32	0.05	412318.45	UPI	4
+ORD10987	2025-07-11 00:00:00	Karan	Cooking Oil	Grocery	Bengaluru	South	Anjali	15	184.31	0.05	2006.59	Cash	3
+ORD10676	2025-07-12 00:00:00	Diya	Lipstick	Beauty	Mumbai	West	Priya	11	872.31	0.1	5453.4	UPI	3
+ORD10394	2025-07-12 00:00:00	Kavya	Coffee	Grocery	Ahmedabad	West	Pooja	4	573.24	0.15	1432.09	UPI	2.5
+ORD10434	2025-07-13 00:00:00	Rahul	Headphones	Electronics	Bhubaneswar	East	Sneha	2	3493.18	0.15	4302.1	Card	4.5
+ORD10542	2025-07-14 00:00:00	Sahil	Rice 5kg	Grocery	Bengaluru	South	Vikram	13	425.78	0.1	4514.97	Cash	2.5
+ORD10368	2025-07-14 00:00:00	Zoya	Perfume	Beauty	Hyderabad	South	Amit	1	1776.94	0.2	1059.32	Card	3
+ORD10273	2025-07-15 00:00:00	Varun	Shampoo	Beauty	Delhi	North	Priya	5	566.22	0.1	1720.58	UPI	4
+ORD10042	2025-07-16 00:00:00	Tanvi	Jacket	Clothing	Bhubaneswar	East	Karan	1	4599.69	0.15	2630.93	Online	4.5
+ORD10419	2025-07-18 00:00:00	Tanvi	Cooking Oil	Grocery	Bengaluru	South	Sneha	11	173.82	0.05	1566.24	UPI	4.5
+ORD10481	2025-07-20 00:00:00	Arjun	Rice 5kg	Grocery	Jaipur	North	Neha	5	484.11	0.1	1646.72	Card	5
+ORD10941	2025-07-20 00:00:00	Karan	Office Chair	Furniture	Patna	East	Rahul	3	11818.38	0.05	23531.19	Cash	5
+ORD10830	2025-07-20 00:00:00	Neha	Jeans	Clothing	Pune	West	Neha	2	2594.01	0.05	2695.38	UPI	3
+ORD10069	2025-07-21 00:00:00	Akash	Smartphone	Electronics	Jaipur	North	Anjali	6	31948.08	0.1	131118.86	Cash	3
+ORD10190	2025-07-22 00:00:00	Akash	Office Chair	Furniture	Ahmedabad	West	Rohan	1	12827.57	0.1	8433.38	Online	4
+ORD10083	2025-07-23 00:00:00	Aditi	Bookshelf	Furniture	Patna	East	Rohan	1	8819.49	0	5579.32	Online	4
+ORD10558	2025-07-23 00:00:00	Zoya	Laptop	Electronics	Hyderabad	South	Rohan	1	62860.66	0	45617.93	UPI	5
+ORD10377	2025-07-24 00:00:00	Aditi	Face Wash	Beauty	Chennai	South	Sneha	4	466.61	0.05	1176.18	UPI	5
+ORD10248	2025-07-24 00:00:00	Yash	Moisturizer	Beauty	Bhubaneswar	East	Pooja	3	683.28	0.1	1329.9	UPI	4.5
+ORD10012	2025-07-25 00:00:00	Sakshi	Moisturizer	Beauty	Hyderabad	South	Rahul	6	656.28	0.05	2600.75	Card	3.5
+ORD10350	2025-07-25 00:00:00	Priya	Rice 5kg	Grocery	Bhubaneswar	East	Pooja	1	472.12	0.15	344.41	Card	3.5
+ORD10877	2025-07-25 00:00:00	Nitin	Tea	Grocery	Bhubaneswar	East	Sneha	13	297.02	0.05	2682.5	Online	5
+ORD10455	2025-07-25 00:00:00	Nitin	Headphones	Electronics	Ahmedabad	West	Sneha	2	3306.7	0.05	4331.17	UPI	4
+ORD10692	2025-07-26 00:00:00	Pooja	T-Shirt	Clothing	Hyderabad	South	Amit	5	1247.57	0.05	3227.04	UPI	3
+ORD10527	2025-07-26 00:00:00	Tanya	T-Shirt	Clothing	Ahmedabad	West	Sneha	1	1253.24	0.1	675.9	UPI	4
+ORD10735	2025-07-26 00:00:00	Meera	Dining Table	Furniture	Hyderabad	South	Vikram	4	23528.27	0.25	66089.71	UPI	4.5
+ORD10401	2025-07-26 00:00:00	Riya	Headphones	Electronics	Ahmedabad	West	Sneha	9	3530.31	0.2	20058.33	UPI	3.5
+ORD10553	2025-07-26 00:00:00	Diya	Sneakers	Clothing	Jaipur	North	Vikram	1	5202.25	0.15	2921.52	Card	5
+ORD10254	2025-07-26 00:00:00	Tanvi	Bookshelf	Furniture	Patna	East	Vikram	3	9643.45	0.05	17332.33	Online	3.5
+ORD10618	2025-07-26 00:00:00	Rahul	Desk	Furniture	Bhubaneswar	East	Neha	10	14154.12	0.05	103563.37	Card	3
+ORD10088	2025-07-27 00:00:00	Sakshi	Rice 5kg	Grocery	Kolkata	East	Anjali	4	476.73	0.15	1318.6	Online	4.5
+ORD10623	2025-07-27 00:00:00	Tanya	Sofa	Furniture	Patna	East	Pooja	12	43316.34	0.15	359282.98	Online	3.5
+ORD10018	2025-07-29 00:00:00	Akash	Jacket	Clothing	Hyderabad	South	Karan	3	4769.72	0.2	8162.08	UPI	3
+ORD10641	2025-07-30 00:00:00	Zoya	Laptop	Electronics	Ahmedabad	West	Amit	10	67701.1	0.25	495762.09	Online	4
+ORD10492	2025-07-30 00:00:00	Karan	Rice 5kg	Grocery	Lucknow	North	Rohan	4	477.48	0.1	1382.3	Online	4.5
+ORD10834	2025-07-30 00:00:00	Vivek	Monitor	Electronics	Lucknow	North	Vikram	4	14692.23	0.05	36838.59	Cash	3.5
+ORD10729	2025-07-31 00:00:00	Nitin	Keyboard	Electronics	Kolkata	East	Karan	7	2098.08	0	8901.53	Card	4.5
+ORD10175	2025-07-31 00:00:00	Akash	Rice 5kg	Grocery	Hyderabad	South	Pooja	2	465.19	0.1	694.88	Card	3
+ORD10295	2025-08-01 00:00:00	Sakshi	Headphones	Electronics	Ahmedabad	West	Karan	9	3722.62	0.1	19674.45	UPI	4.5
+ORD10249	2025-08-02 00:00:00	Diya	Moisturizer	Beauty	Delhi	North	Priya	1	709.23	0	439.75	UPI	5
+ORD10723	2025-08-03 00:00:00	Aditya	Smartphone	Electronics	Delhi	North	Anjali	6	30638.08	0.1	124788.44	Card	4
+ORD10053	2025-08-03 00:00:00	Simran	Moisturizer	Beauty	Bhubaneswar	East	Neha	3	686.7	0.15	1365.96	Cash	4
+ORD10055	2025-08-03 00:00:00	Aditya	Backpack	Clothing	Kolkata	East	Rahul	4	1899.19	0.15	3874.83	UPI	5
+ORD10574	2025-08-05 00:00:00	Riya	Rice 5kg	Grocery	Ahmedabad	West	Sneha	3	450.87	0.25	1112.02	UPI	2.5
+ORD10827	2025-08-06 00:00:00	Aarav	Bookshelf	Furniture	Delhi	North	Priya	3	9463.98	0	16973.22	UPI	3
+ORD10066	2025-08-06 00:00:00	Tanya	Sneakers	Clothing	Delhi	North	Sneha	2	4700.42	0.05	6225.8	UPI	4
+ORD10097	2025-08-07 00:00:00	Nisha	Jacket	Clothing	Jaipur	North	Anjali	2	4194.15	0.2	5534.64	UPI	5
+ORD10862	2025-08-08 00:00:00	Neha	Jeans	Clothing	Kolkata	East	Rahul	2	2450.1	0.1	2962.69	UPI	4
+ORD10500	2025-08-08 00:00:00	Tanya	Lipstick	Beauty	Chennai	South	Amit	10	887.86	0.05	5174.73	UPI	4.5
+ORD10450	2025-08-09 00:00:00	Aditi	Smartphone	Electronics	Bhubaneswar	East	Priya	3	29533.02	0.05	59230.25	Online	3.5
+ORD10696	2025-08-10 00:00:00	Aarav	Rice 5kg	Grocery	Mumbai	West	Sneha	5	416.5	0.05	1666.44	Card	4.5
+ORD10544	2025-08-10 00:00:00	Ishaan	Cooking Oil	Grocery	Pune	West	Sneha	3	168.97	0.1	389.69	Card	4
+ORD10732	2025-08-11 00:00:00	Sanya	Face Wash	Beauty	Chennai	South	Sneha	1	438.01	0.1	270.56	Cash	3
+ORD10780	2025-08-11 00:00:00	Kavya	Rice 5kg	Grocery	Chennai	South	Vikram	2	432.91	0	679.4	UPI	2.5
+ORD10844	2025-08-12 00:00:00	Sanya	Moisturizer	Beauty	Delhi	North	Vikram	1	735.03	0.15	438.5	Card	4.5
+ORD10812	2025-08-14 00:00:00	Tanya	Face Wash	Beauty	Ahmedabad	West	Priya	1	485.22	0.1	278.74	UPI	3.5
+ORD10991	2025-08-15 00:00:00	Arjun	Dry Fruits	Grocery	Bengaluru	South	Sneha	3	931.92	0.2	1850.47	UPI	4.5
+ORD10837	2025-08-15 00:00:00	Arjun	Perfume	Beauty	Bengaluru	South	Rahul	1	1679	0.1	1136.69	Card	3
+ORD10917	2025-08-17 00:00:00	Varun	Desk	Furniture	Lucknow	North	Vikram	5	14345.71	0.05	48354.17	Card	2.5
+ORD10846	2025-08-17 00:00:00	Tanvi	T-Shirt	Clothing	Jaipur	North	Neha	6	1215.37	0.05	4002.82	UPI	3.5
+ORD10100	2025-08-18 00:00:00	Nisha	Headphones	Electronics	Pune	West	Karan	9	3452.65	0.05	19581.32	UPI	2.5
+ORD10582	2025-08-18 00:00:00	Akash	Lipstick	Beauty	Chennai	South	Sneha	7	940.88	0.05	3781.6	Card	3
+ORD10429	2025-08-20 00:00:00	Arjun	Dining Table	Furniture	Patna	East	Karan	3	24426.49	0.05	49703.8	Card	3
+ORD10969	2025-08-20 00:00:00	Sanya	Backpack	Clothing	Ahmedabad	West	Amit	8	1920.46	0.15	8098.88	UPI	3.5
+ORD10990	2025-08-21 00:00:00	Tanvi	Face Wash	Beauty	Jaipur	North	Amit	1	448.31	0.05	274.14	UPI	4
+ORD10347	2025-08-22 00:00:00	Priya	Rice 5kg	Grocery	Delhi	North	Sneha	7	467.73	0.05	2354.63	Card	4.5
+ORD10730	2025-08-22 00:00:00	Kavya	Monitor	Electronics	Bhubaneswar	East	Neha	2	13417.76	0.2	19129.79	Online	4.5
+ORD10619	2025-08-23 00:00:00	Tanya	Dry Fruits	Grocery	Pune	West	Sneha	5	837.06	0.1	3322.77	Online	3.5
+ORD10339	2025-08-23 00:00:00	Sakshi	Jeans	Clothing	Chennai	South	Priya	9	2410.94	0	12600.35	Card	4.5
+ORD10467	2025-08-23 00:00:00	Meera	Desk	Furniture	Hyderabad	South	Vikram	4	15102.11	0.05	42296.53	Cash	3
+ORD10761	2025-08-24 00:00:00	Nitin	Monitor	Electronics	Bhubaneswar	East	Neha	7	14073.27	0.1	65642.36	UPI	4.5
+ORD10520	2025-08-25 00:00:00	Yash	Monitor	Electronics	Mumbai	West	Neha	6	13834.5	0.05	55546.87	UPI	4
+ORD10149	2025-08-25 00:00:00	Varun	Smartphone	Electronics	Lucknow	North	Sneha	11	28845.84	0.15	225245.08	UPI	3.5
+ORD10867	2025-08-25 00:00:00	Aarav	Monitor	Electronics	Lucknow	North	Sneha	1	14362.1	0	10069.43	Online	4.5
+ORD10962	2025-08-25 00:00:00	Pooja	Backpack	Clothing	Ahmedabad	West	Neha	5	1920.34	0.05	4932.24	UPI	4.5
+ORD10930	2025-08-26 00:00:00	Varun	Office Chair	Furniture	Chennai	South	Karan	2	12549.68	0.15	16732.91	Card	4
+ORD10799	2025-08-26 00:00:00	Arjun	Tea	Grocery	Chennai	South	Rahul	12	276.86	0.1	2532.45	Card	5
+ORD10376	2025-08-27 00:00:00	Varun	Bookshelf	Furniture	Jaipur	North	Karan	1	9570.92	0	5894.81	UPI	2.5
+ORD10541	2025-08-27 00:00:00	Varun	Moisturizer	Beauty	Jaipur	North	Vikram	7	734.94	0.05	2944.81	Cash	4.5
+ORD10720	2025-08-27 00:00:00	Rahul	Tea	Grocery	Lucknow	North	Priya	15	293.27	0.15	3315.85	Cash	4
+ORD10314	2025-08-27 00:00:00	Meera	Moisturizer	Beauty	Bhubaneswar	East	Sneha	3	722.88	0	1299.07	Cash	4.5
+ORD10265	2025-08-30 00:00:00	Manish	Shampoo	Beauty	Pune	West	Sneha	9	543.26	0.05	2962.7	Online	3.5
+ORD10380	2025-09-02 00:00:00	Sanya	Desk	Furniture	Delhi	North	Amit	5	14289.06	0.15	51457.39	Cash	2.5
+ORD10873	2025-09-04 00:00:00	Sakshi	Rice 5kg	Grocery	Ahmedabad	West	Karan	12	415.03	0.15	4251.06	Online	4.5
+ORD10806	2025-09-04 00:00:00	Varun	Tea	Grocery	Delhi	North	Neha	2	292.68	0	430.72	Cash	4
+ORD10352	2025-09-04 00:00:00	Meera	Face Wash	Beauty	Mumbai	West	Amit	3	474.93	0.05	825.52	Card	3.5
+ORD10325	2025-09-04 00:00:00	Zoya	Moisturizer	Beauty	Ahmedabad	West	Sneha	6	654.98	0	2560.28	UPI	3.5
+ORD10170	2025-09-05 00:00:00	Ananya	Backpack	Clothing	Hyderabad	South	Rahul	2	1809.64	0.1	1892.66	Online	3
+ORD10134	2025-09-05 00:00:00	Rahul	Bookshelf	Furniture	Jaipur	North	Amit	9	9271.2	0	52852.27	Card	5
+ORD10482	2025-09-07 00:00:00	Nitin	Cooking Oil	Grocery	Lucknow	North	Priya	11	191.49	0	1561.83	Card	3
+ORD10399	2025-09-08 00:00:00	Varun	Coffee	Grocery	Patna	East	Sneha	10	543.54	0.05	3635.52	UPI	3
+ORD10236	2025-09-09 00:00:00	Meera	Tea	Grocery	Bengaluru	South	Rohan	12	307.24	0.2	2428.94	UPI	2.5
+ORD10603	2025-09-10 00:00:00	Tanvi	Monitor	Electronics	Patna	East	Pooja	5	14070.53	0.1	49619.64	UPI	3.5
+ORD10885	2025-09-12 00:00:00	Aditi	Dry Fruits	Grocery	Kolkata	East	Anjali	2	948.28	0.15	1271.43	Card	3.5
+ORD10469	2025-09-13 00:00:00	Priya	Keyboard	Electronics	Kolkata	East	Karan	2	2357.36	0.05	2601.52	UPI	3
+ORD10250	2025-09-13 00:00:00	Akash	Face Wash	Beauty	Hyderabad	South	Rahul	2	454.82	0.15	572.34	Card	4.5
+ORD10725	2025-09-13 00:00:00	Aditya	Backpack	Clothing	Delhi	North	Amit	1	1896.23	0.1	1034.14	Online	4
+ORD10583	2025-09-15 00:00:00	Yash	Jacket	Clothing	Bhubaneswar	East	Rohan	8	4661	0	22462.31	Online	4.5
+ORD10123	2025-09-15 00:00:00	Ishaan	Bookshelf	Furniture	Bengaluru	South	Pooja	1	9582.31	0.25	6126.3	UPI	4.5
+ORD10675	2025-09-17 00:00:00	Manish	T-Shirt	Clothing	Hyderabad	South	Neha	13	1294.41	0.05	8883.55	Card	3
+ORD10304	2025-09-18 00:00:00	Rahul	Rice 5kg	Grocery	Delhi	North	Priya	6	485.51	0.05	2165.09	UPI	4
+ORD10152	2025-09-19 00:00:00	Neha	Office Chair	Furniture	Delhi	North	Pooja	5	12942.83	0.1	38089.37	Online	3.5
+ORD10584	2025-09-21 00:00:00	Priya	Bookshelf	Furniture	Patna	East	Neha	2	8569.19	0.1	11533.24	Card	4
+ORD10734	2025-09-21 00:00:00	Varun	Jacket	Clothing	Jaipur	North	Karan	9	4525.13	0.1	23858.25	Online	4.5
+ORD10959	2025-09-22 00:00:00	Varun	Monitor	Electronics	Pune	West	Anjali	4	13530.67	0	36473.19	UPI	3
+ORD10499	2025-09-22 00:00:00	Tanya	Lipstick	Beauty	Kolkata	East	Karan	5	837.1	0.05	2729.02	UPI	3
+ORD10796	2025-09-23 00:00:00	Tanya	Shampoo	Beauty	Delhi	North	Neha	2	591.28	0.1	697.25	UPI	4
+ORD10129	2025-09-23 00:00:00	Nitin	Laptop	Electronics	Ahmedabad	West	Anjali	6	68951.27	0.1	305271.06	Card	5
+ORD10513	2025-09-24 00:00:00	Arjun	Moisturizer	Beauty	Mumbai	West	Vikram	1	737.21	0.05	436.37	Cash	2.5
+ORD10742	2025-09-25 00:00:00	Yash	Desk	Furniture	Patna	East	Anjali	8	14234.87	0.25	81650.66	Cash	3.5
+ORD10966	2025-09-25 00:00:00	Akash	Dining Table	Furniture	Delhi	North	Amit	13	26373.92	0	225995.68	Online	2.5
+ORD10512	2025-09-26 00:00:00	Priya	T-Shirt	Clothing	Hyderabad	South	Anjali	5	1243.52	0.1	3422.62	UPI	4.5
+ORD10387	2025-09-26 00:00:00	Karan	Desk	Furniture	Hyderabad	South	Vikram	2	13925.77	0.05	20978.76	UPI	4
+ORD10850	2025-09-27 00:00:00	Simran	Backpack	Clothing	Patna	East	Priya	3	1807.64	0.2	2962.47	UPI	3
+ORD10165	2025-09-28 00:00:00	Zoya	Smartphone	Electronics	Hyderabad	South	Neha	4	31543.92	0.15	79559.56	Online	3
+ORD10819	2025-09-28 00:00:00	Ananya	Smartphone	Electronics	Hyderabad	South	Pooja	3	28436.08	0.1	63682.15	Card	4.5
+ORD10922	2025-09-29 00:00:00	Neha	Jacket	Clothing	Patna	East	Rohan	3	4706.31	0.1	7768.93	UPI	2.5
+ORD11000	2025-09-30 00:00:00	Akash	Jeans	Clothing	Kolkata	East	Pooja	4	2460.34	0.25	5402.94	Card	4.5
+ORD10906	2025-09-30 00:00:00	Tanya	Shampoo	Beauty	Patna	East	Pooja	9	590.35	0	3014.65	Cash	4.5
+ORD10975	2025-09-30 00:00:00	Simran	Laptop	Electronics	Jaipur	North	Amit	3	63106.78	0	144552.19	Card	4
+ORD10204	2025-10-02 00:00:00	Aditya	Shampoo	Beauty	Lucknow	North	Rohan	4	543.66	0.05	1349.18	Online	4.5
+ORD10901	2025-10-03 00:00:00	Tanya	Keyboard	Electronics	Delhi	North	Rahul	12	2057.46	0	16443.4	Card	3
+ORD10751	2025-10-03 00:00:00	Varun	Headphones	Electronics	Mumbai	West	Priya	8	3711.03	0.15	16810.23	Online	4.5
+ORD10639	2025-10-03 00:00:00	Rohan	Office Chair	Furniture	Bengaluru	South	Vikram	9	12279.17	0.15	73618.9	UPI	5
+ORD10738	2025-10-03 00:00:00	Sahil	Face Wash	Beauty	Kolkata	East	Rahul	10	457.3	0.15	2815.47	UPI	2.5
+ORD10590	2025-10-03 00:00:00	Arjun	Monitor	Electronics	Hyderabad	South	Anjali	3	13259.82	0.25	29585.55	Card	3.5
+ORD10666	2025-10-04 00:00:00	Tanvi	Monitor	Electronics	Jaipur	North	Rohan	4	13510.58	0.1	36833.71	UPI	3
+ORD10280	2025-10-04 00:00:00	Nisha	Dry Fruits	Grocery	Ahmedabad	West	Pooja	4	875.18	0	2509.57	Cash	4
+ORD10910	2025-10-06 00:00:00	Aarav	Sofa	Furniture	Ahmedabad	West	Rahul	1	42965.62	0.1	30085.54	Online	4
+ORD10384	2025-10-09 00:00:00	Diya	Shampoo	Beauty	Jaipur	North	Rahul	7	533.18	0	2482.74	Online	3
+ORD10113	2025-10-10 00:00:00	Meera	Moisturizer	Beauty	Pune	West	Rahul	15	679.18	0.05	6553.3	Online	4
+ORD10276	2025-10-10 00:00:00	Yash	Jacket	Clothing	Delhi	North	Pooja	2	4718.16	0.1	5540.06	Online	3
+ORD10027	2025-10-10 00:00:00	Ananya	Keyboard	Electronics	Kolkata	East	Sneha	2	2337.04	0.1	2606.05	UPI	2.5
+ORD10138	2025-10-11 00:00:00	Nitin	Tea	Grocery	Delhi	North	Vikram	7	319.91	0	1443.9	UPI	4
+ORD10313	2025-10-12 00:00:00	Yash	Laptop	Electronics	Ahmedabad	West	Amit	10	61993.64	0	489937.29	UPI	4
+ORD10926	2025-10-13 00:00:00	Diya	Laptop	Electronics	Lucknow	North	Karan	3	67121	0.1	141199.7	Cash	3.5
+ORD10890	2025-10-14 00:00:00	Aditya	Office Chair	Furniture	Delhi	North	Sneha	4	11757.38	0.05	32724.87	Card	3.5
+ORD10658	2025-10-15 00:00:00	Varun	Dining Table	Furniture	Jaipur	North	Sneha	5	23360.45	0	87758.91	UPI	4.5
+ORD10365	2025-10-16 00:00:00	Tanya	Moisturizer	Beauty	Patna	East	Karan	5	741.61	0.2	2028.84	UPI	3.5
+ORD10047	2025-10-16 00:00:00	Akash	Desk	Furniture	Lucknow	North	Amit	3	15248.59	0.05	31562.22	Card	3.5
+ORD10335	2025-10-16 00:00:00	Karan	Smartphone	Electronics	Jaipur	North	Neha	5	29754.39	0.15	99492	Cash	4.5
+ORD10440	2025-10-19 00:00:00	Aditya	Smartphone	Electronics	Hyderabad	South	Sneha	2	29011.01	0.2	40567.65	Card	4.5
+ORD10221	2025-10-22 00:00:00	Rahul	Cooking Oil	Grocery	Hyderabad	South	Vikram	2	177.57	0.1	266.85	Card	4.5
+ORD10096	2025-10-22 00:00:00	Aditi	Jacket	Clothing	Chennai	South	Rohan	11	4734.38	0.15	28898.94	UPI	3
+ORD10382	2025-10-22 00:00:00	Rahul	Tea	Grocery	Pune	West	Amit	3	301.57	0.1	640.49	Card	3.5
+ORD10760	2025-10-23 00:00:00	Sahil	Dry Fruits	Grocery	Bengaluru	South	Amit	7	941.74	0.05	4623.46	UPI	5
+ORD10693	2025-10-23 00:00:00	Kavya	Jacket	Clothing	Pune	West	Amit	5	4668.21	0.1	13702.54	UPI	4
+ORD10189	2025-10-23 00:00:00	Nitin	Sneakers	Clothing	Patna	East	Karan	3	5184.33	0	9035.51	UPI	3.5
+ORD10711	2025-10-23 00:00:00	Ishaan	Coffee	Grocery	Ahmedabad	West	Priya	7	541	0.05	2637.05	Cash	3.5
+ORD10188	2025-10-26 00:00:00	Nisha	Sneakers	Clothing	Chennai	South	Karan	3	4826	0.05	9059.57	UPI	4.5
+ORD10592	2025-10-26 00:00:00	Kavya	Rice 5kg	Grocery	Pune	West	Amit	7	479.82	0.15	2463.65	UPI	4
+ORD10525	2025-10-27 00:00:00	Yash	Face Wash	Beauty	Lucknow	North	Amit	2	481.07	0.25	573.97	Online	3
+ORD10140	2025-10-28 00:00:00	Diya	Lipstick	Beauty	Lucknow	North	Rohan	4	866.96	0.05	2156.06	UPI	4
+ORD10790	2025-10-29 00:00:00	Rohan	Moisturizer	Beauty	Bengaluru	South	Rahul	8	755.63	0.1	3602.34	Cash	5
+ORD10268	2025-10-30 00:00:00	Sakshi	Tea	Grocery	Mumbai	West	Neha	8	297.25	0.05	1630.26	Card	4.5
+ORD10198	2025-10-31 00:00:00	Nisha	Shampoo	Beauty	Patna	East	Sneha	1	534.18	0.1	367.36	Card	4.5
+ORD10608	2025-10-31 00:00:00	Akash	Dining Table	Furniture	Hyderabad	South	Anjali	12	26322.76	0.1	195287.67	Card	3.5
+ORD10389	2025-11-01 00:00:00	Rahul	Coffee	Grocery	Patna	East	Priya	8	551.99	0.1	3142.86	UPI	2.5
+ORD10887	2025-11-04 00:00:00	Sanya	Cooking Oil	Grocery	Mumbai	West	Vikram	1	170.46	0.1	132.02	UPI	3
+ORD10951	2025-11-04 00:00:00	Neha	Backpack	Clothing	Ahmedabad	West	Rohan	11	1805.76	0.15	11380.08	Online	2.5
+ORD10740	2025-11-05 00:00:00	Ananya	Sofa	Furniture	Jaipur	North	Rohan	8	41461.7	0.05	234542.52	UPI	5
+ORD10110	2025-11-05 00:00:00	Arjun	Smartphone	Electronics	Bhubaneswar	East	Amit	1	30689.17	0	20012.36	UPI	3
+ORD10852	2025-11-06 00:00:00	Priya	Coffee	Grocery	Delhi	North	Sneha	3	506.97	0.05	1114.3	Card	4
+ORD10285	2025-11-07 00:00:00	Yash	Backpack	Clothing	Jaipur	North	Neha	1	1890.91	0.15	947.53	Cash	3.5
+ORD10277	2025-11-08 00:00:00	Meera	Dry Fruits	Grocery	Kolkata	East	Vikram	5	857.41	0.1	3151.41	Card	3.5
+ORD10010	2025-11-09 00:00:00	Karan	Tea	Grocery	Ahmedabad	West	Rahul	5	306.71	0.15	993.89	UPI	3.5
+ORD10392	2025-11-10 00:00:00	Nitin	T-Shirt	Clothing	Chennai	South	Rahul	2	1184.55	0.1	1271.37	Cash	4.5
+ORD10487	2025-11-10 00:00:00	Vivek	Smartphone	Electronics	Bhubaneswar	East	Anjali	7	30220.33	0.15	138784.37	Card	3
+ORD10483	2025-11-10 00:00:00	Tanvi	Jeans	Clothing	Ahmedabad	West	Priya	6	2684.41	0.25	7909.18	Online	3.5
+ORD10192	2025-11-10 00:00:00	Ishaan	Shampoo	Beauty	Bhubaneswar	East	Neha	1	571.01	0.15	366.5	UPI	3.5
+ORD10293	2025-11-10 00:00:00	Manish	Face Wash	Beauty	Bhubaneswar	East	Vikram	7	471.37	0.25	1872.4	UPI	4
+ORD10913	2025-11-11 00:00:00	Akash	Rice 5kg	Grocery	Lucknow	North	Neha	3	440.16	0.1	1045.53	Online	4.5
+ORD10131	2025-11-11 00:00:00	Kavya	T-Shirt	Clothing	Lucknow	North	Karan	2	1216.6	0.1	1262.75	Online	4.5
+ORD10648	2025-11-11 00:00:00	Aarav	Cooking Oil	Grocery	Bengaluru	South	Neha	2	168.38	0.1	284.64	UPI	4
+ORD10475	2025-11-13 00:00:00	Pooja	Sneakers	Clothing	Pune	West	Pooja	1	4926.19	0.05	3054.42	UPI	3
+ORD10381	2025-11-13 00:00:00	Simran	Headphones	Electronics	Chennai	South	Amit	13	3603.94	0.15	29488.51	UPI	3
+ORD10076	2025-11-14 00:00:00	Sakshi	Tea	Grocery	Jaipur	North	Vikram	1	307	0	203.7	Cash	3
+ORD10536	2025-11-14 00:00:00	Yash	Moisturizer	Beauty	Chennai	South	Sneha	12	738.8	0.25	5154.08	Online	3
+ORD10037	2025-11-14 00:00:00	Rahul	Desk	Furniture	Jaipur	North	Karan	12	14516.52	0.05	126101.9	Online	3
+ORD10207	2025-11-15 00:00:00	Nitin	Headphones	Electronics	Chennai	South	Vikram	3	3230.11	0.1	6586.32	Online	3
+ORD10282	2025-11-15 00:00:00	Varun	Bookshelf	Furniture	Chennai	South	Rahul	2	9578.17	0.05	10952.36	UPI	4.5
+ORD10967	2025-11-17 00:00:00	Tanvi	Tea	Grocery	Pune	West	Rohan	4	290.15	0.1	881.67	UPI	4.5
+ORD10071	2025-11-18 00:00:00	Nitin	Coffee	Grocery	Lucknow	North	Rahul	4	526.82	0.05	1561.95	Online	4
+ORD10452	2025-11-19 00:00:00	Manish	Sneakers	Clothing	Mumbai	West	Rahul	1	5258.61	0.1	3136.58	Online	3
+ORD10388	2025-11-21 00:00:00	Ananya	Monitor	Electronics	Delhi	North	Rohan	1	14495.62	0.25	9701.9	Online	3
+ORD10074	2025-11-21 00:00:00	Nitin	Face Wash	Beauty	Bhubaneswar	East	Anjali	1	476.38	0	264.32	UPI	4
+ORD10118	2025-11-22 00:00:00	Akash	Keyboard	Electronics	Chennai	South	Amit	9	2180.68	0.15	11156.84	UPI	5
+ORD10836	2025-11-23 00:00:00	Diya	T-Shirt	Clothing	Patna	East	Pooja	6	1225.48	0.1	4069.83	UPI	2.5
+ORD10912	2025-11-24 00:00:00	Ananya	Office Chair	Furniture	Jaipur	North	Anjali	12	12637.9	0.15	93518.71	UPI	4.5
+ORD10908	2025-11-24 00:00:00	Manish	Bookshelf	Furniture	Pune	West	Vikram	7	8594.99	0.25	39347.74	UPI	4.5
+ORD10369	2025-11-26 00:00:00	Aditya	Keyboard	Electronics	Ahmedabad	West	Rahul	14	2141.5	0	18697.31	UPI	5
+ORD10194	2025-11-27 00:00:00	Priya	Rice 5kg	Grocery	Kolkata	East	Vikram	4	443.94	0	1458.86	Online	4.5
+ORD10585	2025-11-27 00:00:00	Riya	Rice 5kg	Grocery	Delhi	North	Priya	1	463.81	0.05	355.77	Card	4.5
+ORD10026	2025-11-27 00:00:00	Aditya	Dry Fruits	Grocery	Ahmedabad	West	Neha	2	892.19	0.1	1349.2	UPI	4.5
+ORD10446	2025-11-29 00:00:00	Aditi	Moisturizer	Beauty	Patna	East	Priya	3	660.24	0.1	1326.66	Online	4
+ORD10239	2025-12-01 00:00:00	Pooja	Rice 5kg	Grocery	Bhubaneswar	East	Vikram	6	428.26	0.1	2007.8	UPI	4.5
+ORD10448	2025-12-01 00:00:00	Ishaan	Coffee	Grocery	Bhubaneswar	East	Pooja	7	506.76	0.15	2796.46	Card	4
+ORD10441	2025-12-01 00:00:00	Priya	Smartphone	Electronics	Jaipur	North	Amit	1	28361.46	0.05	20527.96	Card	4
+ORD10414	2025-12-02 00:00:00	Aditya	Backpack	Clothing	Hyderabad	South	Neha	10	1808.61	0.1	9870.01	Online	3
+ORD10528	2025-12-02 00:00:00	Sahil	Office Chair	Furniture	Patna	East	Rahul	12	11733.63	0.15	92697.94	Online	4
+ORD10904	2025-12-03 00:00:00	Vivek	Backpack	Clothing	Patna	East	Vikram	9	1663.32	0	8502.56	Card	5
+ORD10201	2025-12-04 00:00:00	Nisha	Rice 5kg	Grocery	Delhi	North	Karan	1	472.13	0.05	361.05	UPI	4
+ORD10781	2025-12-04 00:00:00	Akash	Cooking Oil	Grocery	Kolkata	East	Karan	7	187.84	0.2	937.59	UPI	2.5
+ORD10061	2025-12-04 00:00:00	Varun	T-Shirt	Clothing	Delhi	North	Rahul	2	1287.02	0.05	1306.39	Online	4
+ORD10932	2025-12-04 00:00:00	Ananya	Face Wash	Beauty	Patna	East	Neha	1	431.91	0.15	285.42	Card	4
+ORD10196	2025-12-04 00:00:00	Simran	Dining Table	Furniture	Ahmedabad	West	Anjali	12	24490.42	0.1	197398.79	Cash	3
+ORD10422	2025-12-05 00:00:00	Sahil	Dry Fruits	Grocery	Bengaluru	South	Karan	9	951.74	0.05	5916.57	Online	3.5
+ORD10627	2025-12-05 00:00:00	Vivek	Jeans	Clothing	Jaipur	North	Rohan	3	2604.75	0.1	4337.83	Card	4
+ORD10557	2025-12-06 00:00:00	Riya	Headphones	Electronics	Bhubaneswar	East	Anjali	1	3240.45	0	2231.76	UPI	5
+ORD10556	2025-12-06 00:00:00	Nitin	T-Shirt	Clothing	Delhi	North	Vikram	5	1220.23	0.1	3088.96	Online	3
+ORD10714	2025-12-06 00:00:00	Aditya	T-Shirt	Clothing	Pune	West	Pooja	3	1216.32	0	1994.29	Online	3.5
+ORD10161	2025-12-07 00:00:00	Zoya	Dining Table	Furniture	Lucknow	North	Neha	3	23999.42	0.15	49999.14	Card	3
+ORD10261	2025-12-07 00:00:00	Aditi	Rice 5kg	Grocery	Hyderabad	South	Neha	1	471.91	0	335.85	UPI	3.5
+ORD10984	2025-12-08 00:00:00	Sahil	Smartphone	Electronics	Bhubaneswar	East	Neha	2	29577.57	0	42397.74	Card	4.5
+ORD10803	2025-12-09 00:00:00	Neha	Backpack	Clothing	Ahmedabad	West	Pooja	3	1707.7	0.1	3095.62	UPI	3
+ORD10668	2025-12-09 00:00:00	Diya	Monitor	Electronics	Kolkata	East	Neha	1	14046.08	0.2	9376.62	Card	4
+ORD10843	2025-12-11 00:00:00	Nisha	Monitor	Electronics	Kolkata	East	Sneha	6	12985.37	0	59593.11	Card	3.5
+ORD10888	2025-12-11 00:00:00	Pooja	Office Chair	Furniture	Chennai	South	Karan	2	12180.24	0.15	16279.38	Cash	4.5
+ORD10087	2025-12-11 00:00:00	Aditya	Tea	Grocery	Hyderabad	South	Rahul	1	291.78	0.25	212.79	Online	5
+ORD10471	2025-12-14 00:00:00	Ishaan	Laptop	Electronics	Bengaluru	South	Anjali	10	63737.88	0.2	475284.33	Card	4.5
+ORD10884	2025-12-15 00:00:00	Ishaan	Headphones	Electronics	Ahmedabad	West	Karan	2	3624.08	0.1	4285.11	Card	4.5
+ORD10744	2025-12-16 00:00:00	Priya	Jacket	Clothing	Kolkata	East	Pooja	7	4303.36	0	18470.96	Online	5
+ORD10600	2025-12-17 00:00:00	Ishaan	Laptop	Electronics	Chennai	South	Pooja	6	65283.15	0.05	281953.99	Online	4.5
+ORD10116	2025-12-18 00:00:00	Kavya	Shampoo	Beauty	Ahmedabad	West	Amit	8	570.08	0.1	2740.91	UPI	2.5
+ORD10372	2025-12-20 00:00:00	Varun	Laptop	Electronics	Ahmedabad	West	Rahul	12	65446.43	0	559415.54	UPI	2.5
+ORD10490	2025-12-21 00:00:00	Akash	Shampoo	Beauty	Kolkata	East	Sneha	3	541.1	0.1	1100.95	Online	5
+ORD10800	2025-12-21 00:00:00	Diya	Perfume	Beauty	Mumbai	West	Rahul	1	1681.48	0.15	1037.48	UPI	3.5
+ORD10621	2025-12-21 00:00:00	Ananya	Keyboard	Electronics	Delhi	North	Neha	15	2363.46	0.25	18598.04	UPI	3
+ORD10616	2025-12-22 00:00:00	Riya	Perfume	Beauty	Pune	West	Amit	4	1777.21	0.1	4519.91	Online	5
+ORD10753	2025-12-24 00:00:00	Meera	Rice 5kg	Grocery	Bengaluru	South	Rohan	5	443.11	0.15	1679.01	Online	4
+ORD10763	2025-12-26 00:00:00	Meera	Office Chair	Furniture	Pune	West	Priya	1	11906.7	0.15	8001.39	UPI	2.5
+ORD10063	2025-12-27 00:00:00	Simran	Face Wash	Beauty	Ahmedabad	West	Priya	1	475.54	0.05	294.43	UPI	2.5
+ORD10292	2025-12-28 00:00:00	Pooja	Laptop	Electronics	Bengaluru	South	Neha	3	67318.48	0.05	149363.1	UPI	3.5
+ORD10230	2025-12-29 00:00:00	Aditi	Rice 5kg	Grocery	Bengaluru	South	Pooja	3	462.81	0.1	1059.08	Online	4.5
+ORD10361	2025-12-29 00:00:00	Rahul	T-Shirt	Clothing	Mumbai	West	Anjali	7	1194.85	0.2	4621.2	Card	2.5
+ORD10749	2025-12-30 00:00:00	Akash	Perfume	Beauty	Pune	West	Amit	10	1810.88	0.2	10542.02	Cash	4.5
+ORD10417	2025-12-30 00:00:00	Riya	Desk	Furniture	Kolkata	East	Amit	11	14775.85	0.05	111015.97	Card	3.5
+ORD10944	2025-12-30 00:00:00	Kavya	Face Wash	Beauty	Chennai	South	Karan	15	450.77	0.05	4177.33	Online	3
+ORD10598	2025-12-31 00:00:00	Pooja	Monitor	Electronics	Chennai	South	Anjali	11	14220.78	0.25	104535.65	UPI	3.5
+ORD10186	2026-01-01 00:00:00	Meera	Cooking Oil	Grocery	Bhubaneswar	East	Rahul	5	169.34	0.05	692.45	Online	5
+ORD10576	2026-01-01 00:00:00	Tanvi	Moisturizer	Beauty	Kolkata	East	Amit	1	702.86	0	429.83	UPI	4
+ORD10737	2026-01-01 00:00:00	Tanya	T-Shirt	Clothing	Pune	West	Priya	7	1251.96	0.05	4616.52	Card	4.5
+ORD10164	2026-01-02 00:00:00	Priya	Sneakers	Clothing	Hyderabad	South	Priya	14	4608.54	0.1	43393.85	UPI	3
+ORD10954	2026-01-02 00:00:00	Arjun	Perfume	Beauty	Chennai	South	Karan	1	1662.51	0.05	1066.19	Card	4.5
+ORD10108	2026-01-02 00:00:00	Tanya	Coffee	Grocery	Mumbai	West	Amit	2	559.59	0.1	784.53	Card	4.5
+ORD10484	2026-01-03 00:00:00	Ananya	Rice 5kg	Grocery	Pune	West	Neha	8	426.36	0	2851.66	Card	3.5
+ORD10537	2026-01-04 00:00:00	Ishaan	Face Wash	Beauty	Mumbai	West	Rohan	14	416.67	0	3936.58	Card	4
+ORD10179	2026-01-04 00:00:00	Sakshi	Moisturizer	Beauty	Patna	East	Priya	1	664.52	0.15	437.37	Online	4.5
+ORD10222	2026-01-04 00:00:00	Meera	Backpack	Clothing	Bhubaneswar	East	Anjali	4	1666.43	0.1	4024.55	Card	3
+ORD10156	2026-01-05 00:00:00	Diya	Office Chair	Furniture	Jaipur	North	Sneha	7	12331.88	0.1	58305.21	Online	4
+ORD10992	2026-01-06 00:00:00	Priya	Cooking Oil	Grocery	Ahmedabad	West	Rahul	5	191.94	0.1	636.17	Card	3
+ORD10534	2026-01-06 00:00:00	Simran	Sneakers	Clothing	Lucknow	North	Amit	5	4621.04	0.1	14569.85	Card	4.5
+ORD10816	2026-01-06 00:00:00	Aditya	Jacket	Clothing	Patna	East	Neha	1	4411.52	0.05	2831.67	UPI	3.5
+ORD10320	2026-01-07 00:00:00	Sahil	Office Chair	Furniture	Patna	East	Rahul	1	12207.28	0.2	8072.75	Cash	3
+ORD10788	2026-01-10 00:00:00	Diya	T-Shirt	Clothing	Hyderabad	South	Rohan	5	1259.62	0.1	3435.84	UPI	5
+ORD10689	2026-01-10 00:00:00	Priya	Coffee	Grocery	Delhi	North	Sneha	9	552.05	0.15	3233.32	UPI	3.5
+ORD10013	2026-01-10 00:00:00	Tanvi	Face Wash	Beauty	Jaipur	North	Pooja	3	480.84	0	795.12	UPI	3
+ORD10784	2026-01-11 00:00:00	Sahil	Bookshelf	Furniture	Jaipur	North	Neha	2	9095.85	0.2	12236.58	UPI	4.5
+ORD10008	2026-01-11 00:00:00	Ananya	Shampoo	Beauty	Pune	West	Anjali	12	510.87	0.2	4020.87	UPI	3
+ORD10172	2026-01-12 00:00:00	Tanya	Laptop	Electronics	Lucknow	North	Neha	6	69033.74	0.1	274254.25	Card	4.5
+ORD10549	2026-01-13 00:00:00	Kavya	Jacket	Clothing	Chennai	South	Vikram	6	4500.24	0.25	16168.14	Online	3
+ORD10168	2026-01-14 00:00:00	Arjun	Keyboard	Electronics	Jaipur	North	Priya	6	2323.55	0.15	8059.46	UPI	3.5
+ORD10405	2026-01-15 00:00:00	Aarav	Bookshelf	Furniture	Delhi	North	Priya	7	9674.22	0.1	42660.52	Cash	3.5
+ORD10739	2026-01-15 00:00:00	Riya	T-Shirt	Clothing	Chennai	South	Rohan	3	1217.34	0.15	2051.71	UPI	2.5
+ORD10357	2026-01-17 00:00:00	Neha	Laptop	Electronics	Chennai	South	Anjali	3	67833.07	0.15	148514.84	UPI	3.5
+ORD10783	2026-01-18 00:00:00	Pooja	Office Chair	Furniture	Jaipur	North	Pooja	3	12509.44	0.25	24824.61	Card	2.5
+ORD10632	2026-01-18 00:00:00	Simran	Shampoo	Beauty	Hyderabad	South	Vikram	4	563.6	0	1476.29	Card	3
+ORD10894	2026-01-18 00:00:00	Nisha	T-Shirt	Clothing	Chennai	South	Vikram	2	1104.52	0.2	1289.49	Card	5
+ORD10948	2026-01-19 00:00:00	Tanya	Shampoo	Beauty	Patna	East	Rohan	7	519.49	0.05	2571.94	Online	3.5
+ORD10432	2026-01-19 00:00:00	Manish	Coffee	Grocery	Bhubaneswar	East	Anjali	12	566.18	0.15	4719.81	UPI	4
+ORD10538	2026-01-19 00:00:00	Arjun	Office Chair	Furniture	Bengaluru	South	Pooja	10	12393.21	0.15	78455.98	Card	3
+ORD10258	2026-01-20 00:00:00	Varun	Cooking Oil	Grocery	Lucknow	North	Sneha	13	176.17	0.1	1672.05	UPI	3
+ORD10521	2026-01-21 00:00:00	Neha	Backpack	Clothing	Ahmedabad	West	Neha	7	1702.17	0.05	6817.01	Card	5
+ORD10880	2026-01-22 00:00:00	Nisha	Keyboard	Electronics	Patna	East	Vikram	1	2372.54	0.1	1233.83	Card	4.5
+ORD10211	2026-01-22 00:00:00	Manish	Sneakers	Clothing	Bhubaneswar	East	Sneha	6	5391.47	0.05	18386.98	UPI	2.5
+ORD10400	2026-01-22 00:00:00	Meera	Coffee	Grocery	Hyderabad	South	Rahul	5	507.96	0.1	1984.16	Online	5
+ORD10085	2026-01-22 00:00:00	Riya	Desk	Furniture	Chennai	South	Neha	9	14514.61	0.05	91076.81	Card	3.5
+ORD10896	2026-01-23 00:00:00	Karan	Keyboard	Electronics	Bhubaneswar	East	Rahul	3	2128.21	0.1	3998.48	UPI	4.5
+ORD10554	2026-01-23 00:00:00	Pooja	Backpack	Clothing	Bengaluru	South	Pooja	2	1719.01	0.2	2005.26	Online	4
+ORD10288	2026-01-24 00:00:00	Arjun	Sneakers	Clothing	Bhubaneswar	East	Amit	1	5119.38	0.1	2878.88	Online	4.5
+ORD10219	2026-01-25 00:00:00	Meera	Cooking Oil	Grocery	Bhubaneswar	East	Rohan	10	183.33	0	1380.93	UPI	2.5
+ORD10847	2026-01-25 00:00:00	Neha	Smartphone	Electronics	Pune	West	Rohan	4	28052.35	0.1	85348.38	UPI	3
+ORD10983	2026-01-25 00:00:00	Neha	Headphones	Electronics	Delhi	North	Rohan	11	3286.11	0.1	22911.42	Online	4
+ORD10051	2026-01-26 00:00:00	Ishaan	Moisturizer	Beauty	Lucknow	North	Vikram	9	733.67	0.15	3848.58	UPI	3
+ORD10561	2026-01-27 00:00:00	Rohan	Tea	Grocery	Jaipur	North	Priya	5	306.11	0.05	1024.99	Card	3.5
+ORD10065	2026-01-27 00:00:00	Sanya	Desk	Furniture	Jaipur	North	Amit	13	14741.72	0.2	128521.36	Cash	4
+ORD10824	2026-01-28 00:00:00	Rohan	T-Shirt	Clothing	Kolkata	East	Amit	7	1272.93	0.15	4454.27	UPI	5
+ORD10526	2026-01-30 00:00:00	Sahil	Jeans	Clothing	Kolkata	East	Anjali	12	2599.17	0.2	16189.02	Online	4.5
+ORD10533	2026-01-31 00:00:00	Rahul	Lipstick	Beauty	Delhi	North	Pooja	13	913.01	0.05	6411.28	Card	3
+ORD10817	2026-02-03 00:00:00	Kavya	Backpack	Clothing	Hyderabad	South	Neha	3	1808.67	0.2	2869.59	UPI	4
+ORD10602	2026-02-04 00:00:00	Rahul	Desk	Furniture	Ahmedabad	West	Vikram	3	13849.23	0	29508.81	Online	3
+ORD10503	2026-02-04 00:00:00	Tanvi	Desk	Furniture	Mumbai	West	Priya	6	15595.7	0	62923.01	Card	2.5
+ORD10502	2026-02-05 00:00:00	Yash	Sneakers	Clothing	Pune	West	Pooja	2	5227.53	0.2	6106.67	UPI	4.5
+ORD10029	2026-02-05 00:00:00	Tanvi	Backpack	Clothing	Pune	West	Karan	8	1932.88	0.15	8098.56	Online	4.5
+ORD10324	2026-02-05 00:00:00	Pooja	Desk	Furniture	Mumbai	West	Karan	2	15554.93	0.15	20892.76	UPI	4.5
+ORD10056	2026-02-07 00:00:00	Meera	Perfume	Beauty	Bengaluru	South	Amit	8	1775.58	0.15	8921.54	Card	3
+ORD10105	2026-02-07 00:00:00	Kavya	Perfume	Beauty	Delhi	North	Sneha	1	1681.22	0.2	1140.35	Cash	4.5
+ORD10686	2026-02-08 00:00:00	Nisha	Sneakers	Clothing	Jaipur	North	Pooja	3	4812.99	0.1	9015.69	Card	3
+ORD10059	2026-02-08 00:00:00	Arjun	Smartphone	Electronics	Bengaluru	South	Karan	11	30596.99	0	235249.19	Online	3.5
+ORD10566	2026-02-09 00:00:00	Simran	Backpack	Clothing	Chennai	South	Priya	5	1673.73	0.05	5093.25	Online	2.5
+ORD10869	2026-02-10 00:00:00	Pooja	Shampoo	Beauty	Pune	West	Pooja	1	567.29	0.05	335.91	Card	4.5
+ORD10679	2026-02-10 00:00:00	Aditi	Moisturizer	Beauty	Lucknow	North	Amit	5	749.46	0.15	2204.47	Online	4
+ORD10895	2026-02-10 00:00:00	Priya	Cooking Oil	Grocery	Delhi	North	Neha	2	180.09	0.25	274.46	Card	4.5
+ORD10981	2026-02-11 00:00:00	Sahil	Bookshelf	Furniture	Hyderabad	South	Amit	8	8856.51	0.1	48462.36	UPI	3
+ORD10163	2026-02-13 00:00:00	Priya	Rice 5kg	Grocery	Chennai	South	Priya	12	467.65	0.15	4055.64	UPI	4.5
+ORD10479	2026-02-13 00:00:00	Neha	Moisturizer	Beauty	Jaipur	North	Anjali	5	744.46	0.05	2122.86	Card	3.5
+ORD10358	2026-02-16 00:00:00	Sanya	Backpack	Clothing	Patna	East	Rohan	5	1931.11	0.15	5232.63	Card	4
+ORD10865	2026-02-16 00:00:00	Pooja	T-Shirt	Clothing	Hyderabad	South	Neha	1	1115.43	0.1	632.32	Online	3.5
+ORD10075	2026-02-16 00:00:00	Rohan	Tea	Grocery	Bengaluru	South	Sneha	6	319.81	0.2	1202.3	UPI	4.5
+ORD10124	2026-02-17 00:00:00	Kavya	Headphones	Electronics	Mumbai	West	Rohan	6	3775.46	0.15	13658.98	UPI	4.5
+ORD10421	2026-02-17 00:00:00	Sahil	Dry Fruits	Grocery	Ahmedabad	West	Vikram	8	945.64	0	4967.61	Cash	4.5
+ORD10310	2026-02-18 00:00:00	Rohan	Office Chair	Furniture	Mumbai	West	Rohan	10	11153.71	0.15	76211.81	Online	3
+ORD10136	2026-02-18 00:00:00	Kavya	Bookshelf	Furniture	Kolkata	East	Amit	2	8401.52	0.15	11264.83	UPI	3.5
+ORD10336	2026-02-18 00:00:00	Priya	Laptop	Electronics	Lucknow	North	Anjali	1	64751.01	0.15	49090.05	Card	5
+ORD10466	2026-02-18 00:00:00	Rahul	Sofa	Furniture	Patna	East	Rahul	2	43128.61	0.2	64935.81	Card	4
+ORD10109	2026-02-18 00:00:00	Aarav	Keyboard	Electronics	Patna	East	Karan	1	2181.26	0.15	1295.76	Card	4
+ORD10612	2026-02-19 00:00:00	Priya	Dry Fruits	Grocery	Delhi	North	Rahul	7	922.03	0.25	4551.24	Card	4.5
+ORD10340	2026-02-20 00:00:00	Neha	Headphones	Electronics	Patna	East	Anjali	5	3309.94	0	10789.7	Card	3
+ORD10404	2026-02-20 00:00:00	Meera	Face Wash	Beauty	Mumbai	West	Rahul	5	422.38	0.05	1376.51	Cash	3
+ORD10977	2026-02-20 00:00:00	Zoya	Backpack	Clothing	Hyderabad	South	Neha	1	1793.83	0.05	1023.89	Card	4
+ORD10950	2026-02-21 00:00:00	Meera	Backpack	Clothing	Chennai	South	Amit	3	1709.96	0.15	3147.41	Card	4.5
+ORD10159	2026-02-23 00:00:00	Priya	Office Chair	Furniture	Chennai	South	Rohan	13	12582.27	0.15	101154.59	UPI	4
+ORD10773	2026-02-24 00:00:00	Meera	Headphones	Electronics	Jaipur	North	Sneha	4	3352.71	0.1	8745.06	UPI	2.5
+ORD10147	2026-02-24 00:00:00	Rahul	Rice 5kg	Grocery	Delhi	North	Rahul	3	457.82	0.15	1057.54	Card	3.5
+ORD10234	2026-02-24 00:00:00	Neha	Jacket	Clothing	Hyderabad	South	Amit	4	4720.11	0.15	10292.19	Cash	2.5
+ORD10860	2026-02-26 00:00:00	Manish	Smartphone	Electronics	Bengaluru	South	Vikram	8	31603.8	0	158084.23	UPI	4.5
+ORD10871	2026-02-26 00:00:00	Aditya	Sofa	Furniture	Lucknow	North	Rahul	4	44177.85	0	127187.53	Card	5
+ORD10980	2026-02-28 00:00:00	Ishaan	Backpack	Clothing	Bhubaneswar	East	Pooja	2	1924.03	0.05	1944.91	Cash	5
+ORD10797	2026-02-28 00:00:00	Tanya	Moisturizer	Beauty	Kolkata	East	Neha	4	708.25	0.15	1708.61	Card	4
+ORD10081	2026-03-01 00:00:00	Aditi	Shampoo	Beauty	Delhi	North	Rahul	6	531.51	0	1977.66	UPI	3.5
+ORD10302	2026-03-01 00:00:00	Meera	Sneakers	Clothing	Jaipur	North	Rahul	3	4792.21	0.1	8594.67	UPI	3.5
+ORD10669	2026-03-01 00:00:00	Manish	Keyboard	Electronics	Chennai	South	Pooja	2	2227.15	0.15	2663.15	Online	3
+ORD10415	2026-03-01 00:00:00	Rohan	Rice 5kg	Grocery	Delhi	North	Karan	2	458.78	0.2	739.37	UPI	4.5
+ORD10305	2026-03-02 00:00:00	Simran	Tea	Grocery	Lucknow	North	Rahul	8	314.09	0.2	1703.48	Online	3.5
+ORD10832	2026-03-04 00:00:00	Diya	Jeans	Clothing	Jaipur	North	Sneha	9	2583.72	0.1	11919.65	Online	4.5
+ORD10005	2026-03-04 00:00:00	Ishaan	Monitor	Electronics	Pune	West	Pooja	6	12915.51	0.1	54209.17	Cash	4.5
+ORD10485	2026-03-05 00:00:00	Karan	Backpack	Clothing	Chennai	South	Vikram	4	1663.34	0.1	3790.53	Cash	3.5
+ORD10424	2026-03-05 00:00:00	Nisha	Jacket	Clothing	Kolkata	East	Neha	6	4717.85	0	16872.06	UPI	4
+ORD10683	2026-03-06 00:00:00	Sanya	Monitor	Electronics	Kolkata	East	Karan	5	13278.77	0	49350.68	UPI	4.5
+ORD10615	2026-03-09 00:00:00	Sanya	Shampoo	Beauty	Ahmedabad	West	Anjali	3	537.41	0	1000.64	Card	4
+ORD10379	2026-03-09 00:00:00	Karan	Face Wash	Beauty	Bhubaneswar	East	Amit	1	428.24	0.1	291.54	Online	4
+ORD10685	2026-03-10 00:00:00	Nitin	Moisturizer	Beauty	Jaipur	North	Karan	2	684.84	0	896.91	UPI	4
+ORD10687	2026-03-10 00:00:00	Aarav	Backpack	Clothing	Ahmedabad	West	Rahul	1	1686.78	0.2	1019.21	UPI	4.5
+ORD10431	2026-03-11 00:00:00	Riya	Monitor	Electronics	Chennai	South	Neha	1	13819.43	0	10030.57	Cash	5
+ORD10183	2026-03-12 00:00:00	Vivek	Perfume	Beauty	Hyderabad	South	Rahul	3	1700.1	0.1	3105.9	UPI	4
+ORD10552	2026-03-13 00:00:00	Vivek	Face Wash	Beauty	Mumbai	West	Rahul	5	424.58	0.15	1408.76	Cash	4.5
+ORD10704	2026-03-14 00:00:00	Rohan	Headphones	Electronics	Jaipur	North	Vikram	1	3667.82	0.1	2182.26	UPI	4
+ORD10840	2026-03-15 00:00:00	Tanvi	Rice 5kg	Grocery	Jaipur	North	Rohan	8	418.08	0.05	2641.9	UPI	3
+ORD10095	2026-03-15 00:00:00	Neha	Coffee	Grocery	Lucknow	North	Sneha	7	548.4	0.05	2682.73	UPI	3
+ORD10808	2026-03-15 00:00:00	Tanvi	Perfume	Beauty	Chennai	South	Vikram	3	1829.42	0	3297.24	Cash	4.5
+ORD10716	2026-03-15 00:00:00	Riya	Moisturizer	Beauty	Patna	East	Vikram	4	703.93	0	1759.14	UPI	4.5
+ORD10620	2026-03-18 00:00:00	Kavya	Coffee	Grocery	Delhi	North	Karan	4	538.25	0.05	1566.66	UPI	4.5
+ORD10501	2026-03-18 00:00:00	Aditi	Tea	Grocery	Mumbai	West	Pooja	2	292.79	0.25	426.43	Online	4
+ORD10206	2026-03-19 00:00:00	Vivek	Laptop	Electronics	Lucknow	North	Vikram	6	61104.59	0.1	297900.85	Card	3.5
+ORD10119	2026-03-19 00:00:00	Nitin	Shampoo	Beauty	Chennai	South	Amit	1	536.92	0.25	370.93	Cash	4
+ORD10835	2026-03-20 00:00:00	Rohan	Jacket	Clothing	Mumbai	West	Rahul	6	4582.96	0	16089.54	UPI	3.5
+ORD10275	2026-03-20 00:00:00	Tanya	Jacket	Clothing	Ahmedabad	West	Vikram	9	4421.34	0.15	25148.12	UPI	3
+ORD10228	2026-03-21 00:00:00	Karan	T-Shirt	Clothing	Ahmedabad	West	Rohan	5	1239.66	0.2	3249.82	Online	3
+ORD10511	2026-03-21 00:00:00	Ishaan	Rice 5kg	Grocery	Lucknow	North	Karan	14	463.16	0.1	5018.05	UPI	5
+ORD10802	2026-03-22 00:00:00	Meera	Monitor	Electronics	Mumbai	West	Rohan	2	13643.07	0	18006.11	UPI	5
+ORD10831	2026-03-23 00:00:00	Meera	Keyboard	Electronics	Mumbai	West	Vikram	2	2063.94	0.05	2614.56	Cash	3.5
+ORD10371	2026-03-25 00:00:00	Priya	Headphones	Electronics	Patna	East	Priya	2	3638.5	0.1	4164.01	Online	2.5
+ORD10139	2026-03-25 00:00:00	Rahul	Dining Table	Furniture	Kolkata	East	Rahul	1	24643.24	0.25	16017.48	Cash	3
+ORD10635	2026-03-26 00:00:00	Nisha	Headphones	Electronics	Bengaluru	South	Priya	1	3458.32	0.15	2213.07	Online	5
+ORD10328	2026-03-26 00:00:00	Sakshi	Rice 5kg	Grocery	Pune	West	Vikram	7	474	0.15	2405.32	Online	4
+ORD10043	2026-03-26 00:00:00	Vivek	Laptop	Electronics	Kolkata	East	Anjali	13	62853.78	0.2	616481.94	Card	4
+ORD10996	2026-03-26 00:00:00	Aditi	Smartphone	Electronics	Ahmedabad	West	Anjali	1	28125.12	0.2	21402.75	UPI	3.5
+ORD10597	2026-03-27 00:00:00	Karan	Cooking Oil	Grocery	Delhi	North	Amit	6	190.05	0.05	790.38	UPI	4
+ORD10390	2026-03-27 00:00:00	Aditi	Dry Fruits	Grocery	Ahmedabad	West	Anjali	1	850.41	0.15	641.57	Cash	5
+ORD10014	2026-03-27 00:00:00	Ishaan	Keyboard	Electronics	Hyderabad	South	Rahul	4	2172.39	0.25	5329.5	Online	3
+ORD10864	2026-03-27 00:00:00	Diya	Jeans	Clothing	Hyderabad	South	Sneha	3	2549.45	0.1	4229.59	UPI	3
+ORD10004	2026-03-28 00:00:00	Riya	Backpack	Clothing	Chennai	South	Sneha	7	1657.88	0.1	6982.8	Card	3.5
+ORD10125	2026-03-28 00:00:00	Zoya	Keyboard	Electronics	Mumbai	West	Vikram	2	2257.55	0.1	2551.87	Card	3
+ORD10046	2026-03-28 00:00:00	Nitin	Cooking Oil	Grocery	Chennai	South	Rohan	11	173.19	0.15	1566.02	Online	4.5
+ORD10793	2026-03-29 00:00:00	Riya	Jacket	Clothing	Bengaluru	South	Rohan	4	4745.47	0.1	10986.21	Cash	3
+ORD10266	2026-03-31 00:00:00	Diya	Coffee	Grocery	Ahmedabad	West	Sneha	3	533.57	0	1143.66	UPI	4
+ORD10579	2026-03-31 00:00:00	Diya	Jacket	Clothing	Delhi	North	Priya	2	4442.45	0.15	5469.96	UPI	5
+ORD10312	2026-04-02 00:00:00	Varun	Smartphone	Electronics	Mumbai	West	Rahul	3	30208.99	0.15	64600.32	UPI	3
+ORD10673	2026-04-03 00:00:00	Ananya	Smartphone	Electronics	Bhubaneswar	East	Vikram	4	30786.23	0.05	83897.47	UPI	3.5
+ORD10596	2026-04-03 00:00:00	Aarav	Jeans	Clothing	Delhi	North	Karan	11	2458.19	0	14798.75	Cash	4.5
+ORD10604	2026-04-04 00:00:00	Tanya	Smartphone	Electronics	Bhubaneswar	East	Vikram	5	30899.4	0.1	100105.94	Online	4
+ORD10613	2026-04-07 00:00:00	Sakshi	Rice 5kg	Grocery	Bengaluru	South	Karan	3	465.95	0	987.75	UPI	3
+ORD10020	2026-04-09 00:00:00	Nisha	Desk	Furniture	Kolkata	East	Karan	1	15191.6	0	9595.02	Card	4
+ORD10731	2026-04-10 00:00:00	Rahul	Monitor	Electronics	Lucknow	North	Rahul	6	13122.43	0.05	59963.84	UPI	3
+ORD10307	2026-04-10 00:00:00	Vivek	Jacket	Clothing	Bengaluru	South	Amit	4	4759.38	0.05	11377.74	UPI	4.5
+ORD10938	2026-04-12 00:00:00	Aditya	Perfume	Beauty	Kolkata	East	Amit	2	1757.5	0	2256.24	Cash	3
+ORD10080	2026-04-13 00:00:00	Aditi	Headphones	Electronics	Mumbai	West	Karan	4	3713.87	0.1	8704.31	UPI	3
+ORD10654	2026-04-13 00:00:00	Karan	Coffee	Grocery	Chennai	South	Amit	11	541.4	0.05	4010.26	UPI	5
+ORD10508	2026-04-15 00:00:00	Sanya	Face Wash	Beauty	Chennai	South	Sneha	9	474.95	0.1	2388.11	Card	4.5
+ORD10785	2026-04-16 00:00:00	Zoya	Keyboard	Electronics	Delhi	North	Karan	1	2135.99	0.2	1256.26	Online	3
+ORD10664	2026-04-16 00:00:00	Sanya	Office Chair	Furniture	Kolkata	East	Priya	10	12591.29	0.05	78733.62	UPI	3
+ORD10309	2026-04-16 00:00:00	Aditya	Dry Fruits	Grocery	Bhubaneswar	East	Vikram	2	839.33	0.05	1248.81	Cash	4
+ORD10947	2026-04-16 00:00:00	Akash	Headphones	Electronics	Bengaluru	South	Sneha	7	3627.04	0.1	15784.13	UPI	3
+ORD10920	2026-04-18 00:00:00	Rohan	Headphones	Electronics	Jaipur	North	Sneha	11	3259.94	0.05	22949.04	Card	3
+ORD10079	2026-04-19 00:00:00	Neha	Dining Table	Furniture	Bengaluru	South	Neha	8	24631.53	0	138634.83	UPI	4
+ORD10914	2026-04-19 00:00:00	Aditya	T-Shirt	Clothing	Ahmedabad	West	Rohan	10	1291.95	0.1	6244.46	UPI	3.5
+ORD10058	2026-04-22 00:00:00	Aditya	Keyboard	Electronics	Patna	East	Karan	6	2151.6	0.1	7881.1	Cash	5
+ORD10463	2026-04-24 00:00:00	Diya	Coffee	Grocery	Ahmedabad	West	Karan	4	579.4	0.1	1574.68	UPI	3.5
+ORD10945	2026-04-24 00:00:00	Ishaan	Keyboard	Electronics	Mumbai	West	Sneha	6	2294.04	0.25	7949.58	Card	4.5
+ORD10486	2026-04-25 00:00:00	Diya	Perfume	Beauty	Hyderabad	South	Sneha	8	1719.67	0.1	8813.14	Online	3.5
+ORD10594	2026-04-25 00:00:00	Zoya	Bookshelf	Furniture	Patna	East	Vikram	2	8367.71	0	11500.94	UPI	4
+ORD10182	2026-04-25 00:00:00	Akash	Headphones	Electronics	Chennai	South	Priya	3	3442.17	0.1	6946.94	UPI	2.5
+ORD10555	2026-04-25 00:00:00	Akash	Shampoo	Beauty	Ahmedabad	West	Amit	1	519.67	0.25	357	Card	3.5
+ORD10976	2026-04-26 00:00:00	Varun	Office Chair	Furniture	Jaipur	North	Rahul	3	12021.69	0.25	25308.68	UPI	5
+ORD10905	2026-04-26 00:00:00	Priya	T-Shirt	Clothing	Pune	West	Rohan	3	1216.8	0	1847.42	Card	4.5
+ORD10115	2026-04-26 00:00:00	Diya	Rice 5kg	Grocery	Patna	East	Sneha	2	420.84	0.2	665.98	Online	4
+ORD10961	2026-04-26 00:00:00	Ananya	Smartphone	Electronics	Ahmedabad	West	Neha	3	28938.03	0.05	62780.16	Card	4.5
+ORD10366	2026-04-26 00:00:00	Nitin	Sofa	Furniture	Mumbai	West	Rahul	1	46531.83	0.2	29312.08	UPI	3.5
+ORD10474	2026-04-27 00:00:00	Tanya	Shampoo	Beauty	Bengaluru	South	Rohan	1	587.59	0	353.72	Online	3.5
+ORD10107	2026-04-28 00:00:00	Vivek	T-Shirt	Clothing	Chennai	South	Pooja	2	1186.98	0	1328.04	Card	5
+ORD10329	2026-04-30 00:00:00	Akash	T-Shirt	Clothing	Lucknow	North	Rohan	5	1275.29	0	3238.48	Online	2.5
+ORD10491	2026-04-30 00:00:00	Arjun	Jeans	Clothing	Lucknow	North	Priya	10	2699.56	0.05	14818.52	Online	3
+ORD10756	2026-04-30 00:00:00	Rahul	Dry Fruits	Grocery	Patna	East	Sneha	13	907.9	0.1	8750.33	Online	3
+ORD10507	2026-04-30 00:00:00	Simran	Perfume	Beauty	Patna	East	Rohan	3	1895.88	0.1	3396.12	Card	3.5
+ORD10795	2026-05-01 00:00:00	Karan	Laptop	Electronics	Chennai	South	Rahul	5	66315.45	0.05	248502.24	Card	3
+ORD10858	2026-05-01 00:00:00	Tanya	Jeans	Clothing	Lucknow	North	Pooja	10	2658.63	0.25	14237.54	Online	3
+ORD10893	2026-05-02 00:00:00	Sanya	Face Wash	Beauty	Hyderabad	South	Anjali	4	421.66	0.05	1063.87	UPI	4.5
+ORD10845	2026-05-03 00:00:00	Rohan	Monitor	Electronics	Bengaluru	South	Vikram	4	13639.65	0.1	36041.5	UPI	5
+ORD10039	2026-05-04 00:00:00	Arjun	Cooking Oil	Grocery	Bengaluru	South	Neha	3	183.76	0.15	417.13	Online	3.5
+ORD10506	2026-05-05 00:00:00	Karan	Monitor	Electronics	Mumbai	West	Amit	3	14013.63	0.05	29242.89	UPI	3.5
+ORD10807	2026-05-05 00:00:00	Vivek	Moisturizer	Beauty	Patna	East	Neha	1	706.16	0.1	450.86	Card	3
+ORD10215	2026-05-05 00:00:00	Tanya	Tea	Grocery	Lucknow	North	Anjali	3	277.55	0.05	631.53	Card	3.5
+ORD10986	2026-05-08 00:00:00	Aditya	Jacket	Clothing	Mumbai	West	Rahul	6	4510.86	0.25	16561.01	Card	3
+ORD10176	2026-05-08 00:00:00	Neha	Monitor	Electronics	Lucknow	North	Rahul	2	13132.67	0.25	19469.41	UPI	3.5
+ORD10214	2026-05-09 00:00:00	Priya	Keyboard	Electronics	Chennai	South	Vikram	8	2116.33	0.15	10822.93	Online	4
+ORD10745	2026-05-09 00:00:00	Akash	Keyboard	Electronics	Hyderabad	South	Anjali	8	2370.45	0	10814.03	Online	4.5
+ORD10321	2026-05-10 00:00:00	Tanvi	Sneakers	Clothing	Pune	West	Priya	7	4730.9	0.15	20054.8	Cash	4.5
+ORD10099	2026-05-10 00:00:00	Priya	Laptop	Electronics	Jaipur	North	Anjali	9	70019.87	0.15	426769.83	Online	3
+ORD10918	2026-05-12 00:00:00	Zoya	Moisturizer	Beauty	Ahmedabad	West	Anjali	6	646.34	0.1	2612.23	Card	5
+ORD10929	2026-05-13 00:00:00	Sakshi	Rice 5kg	Grocery	Mumbai	West	Anjali	2	433.81	0.1	700.6	UPI	3
+ORD10373	2026-05-14 00:00:00	Akash	Smartphone	Electronics	Ahmedabad	West	Neha	13	30420.91	0.05	265181.12	Online	5
+ORD10988	2026-05-14 00:00:00	Tanvi	T-Shirt	Clothing	Kolkata	East	Karan	12	1185.6	0.05	7463.77	UPI	4
+ORD10416	2026-05-14 00:00:00	Pooja	Jeans	Clothing	Mumbai	West	Vikram	10	2337.96	0.15	13815.23	Card	3.5
+ORD10606	2026-05-14 00:00:00	Tanya	Jeans	Clothing	Jaipur	North	Sneha	3	2378.28	0.25	3962.04	Card	3
+ORD10341	2026-05-14 00:00:00	Kavya	Jacket	Clothing	Jaipur	North	Anjali	7	4373.27	0.15	19097.62	Online	4
+ORD10902	2026-05-15 00:00:00	Sakshi	Laptop	Electronics	Patna	East	Neha	10	69996.31	0.05	482618.31	UPI	4.5
+ORD10488	2026-05-15 00:00:00	Manish	Desk	Furniture	Lucknow	North	Neha	1	14208.88	0	9999.65	Online	3
+ORD10019	2026-05-15 00:00:00	Tanvi	T-Shirt	Clothing	Kolkata	East	Rohan	11	1203.16	0.05	7344.75	Card	3.5
+ORD10609	2026-05-16 00:00:00	Karan	Jacket	Clothing	Pune	West	Amit	4	4841.77	0.2	10934.62	UPI	3.5
+ORD10820	2026-05-18 00:00:00	Simran	Bookshelf	Furniture	Kolkata	East	Karan	5	9281.19	0	28456.61	UPI	3.5
+ORD10199	2026-05-18 00:00:00	Yash	Shampoo	Beauty	Patna	East	Priya	13	542.01	0.05	4685.54	Card	4
+ORD10209	2026-05-19 00:00:00	Riya	Laptop	Electronics	Jaipur	North	Karan	2	63052.71	0.05	99764.82	Online	3.5
+ORD10578	2026-05-19 00:00:00	Aditi	Perfume	Beauty	Hyderabad	South	Rohan	3	1782.94	0.05	3495.85	UPI	4.5
+ORD10476	2026-05-19 00:00:00	Simran	Lipstick	Beauty	Bengaluru	South	Pooja	12	938.59	0.05	6584.99	Online	5
+ORD10540	2026-05-20 00:00:00	Vivek	Headphones	Electronics	Patna	East	Vikram	14	3652.09	0.15	30250.2	UPI	5
+ORD10412	2026-05-20 00:00:00	Ananya	Moisturizer	Beauty	Delhi	North	Rahul	4	718.07	0.1	1639.05	Card	3
+ORD10978	2026-05-21 00:00:00	Aditi	Smartphone	Electronics	Pune	West	Rahul	3	32024.59	0.15	62042.74	UPI	3
+ORD10160	2026-05-22 00:00:00	Manish	Tea	Grocery	Lucknow	North	Amit	1	310.7	0.15	202.6	Card	3.5
+ORD10460	2026-05-22 00:00:00	Rahul	Headphones	Electronics	Kolkata	East	Rohan	12	3580.65	0.15	25139.85	Card	4.5
+ORD10122	2026-05-23 00:00:00	Tanya	Shampoo	Beauty	Hyderabad	South	Amit	2	524.44	0.2	670.19	Online	5
+ORD10607	2026-05-23 00:00:00	Pooja	Keyboard	Electronics	Jaipur	North	Priya	9	2307.37	0.05	11025.41	Online	4.5
+ORD10218	2026-05-24 00:00:00	Aditya	Coffee	Grocery	Delhi	North	Rahul	11	517.75	0.2	4084.99	Card	4
+ORD10362	2026-05-24 00:00:00	Rohan	Rice 5kg	Grocery	Hyderabad	South	Amit	9	479.37	0.05	3119.42	UPI	3
+ORD10726	2026-05-26 00:00:00	Vivek	Face Wash	Beauty	Lucknow	North	Amit	5	427.35	0.1	1422.57	UPI	4
+ORD10671	2026-05-26 00:00:00	Zoya	Monitor	Electronics	Delhi	North	Karan	3	13189.71	0.2	28259.7	UPI	4
+ORD10925	2026-05-26 00:00:00	Yash	T-Shirt	Clothing	Delhi	North	Priya	11	1262.77	0.1	6805.09	UPI	4
+ORD10244	2026-05-27 00:00:00	Aditi	Dining Table	Furniture	Jaipur	North	Amit	3	23818.86	0.25	49989.09	Online	2.5
+ORD10089	2026-05-29 00:00:00	Rohan	Shampoo	Beauty	Hyderabad	South	Priya	1	544.34	0.15	338.42	UPI	4
+ORD10531	2026-05-29 00:00:00	Pooja	Face Wash	Beauty	Chennai	South	Pooja	9	422.18	0.15	2612.54	Card	2.5
+ORD10007	2026-05-29 00:00:00	Simran	Smartphone	Electronics	Bengaluru	South	Rohan	3	28941.45	0.15	63618.9	Online	3
+ORD10622	2026-05-30 00:00:00	Neha	Keyboard	Electronics	Lucknow	North	Pooja	1	2134.66	0.15	1348.38	Card	4
+ORD10779	2026-05-31 00:00:00	Ishaan	Tea	Grocery	Lucknow	North	Anjali	3	293.13	0.1	667.01	UPI	2.5
+ORD10570	2026-06-01 00:00:00	Simran	Dining Table	Furniture	Bengaluru	South	Karan	8	26133.35	0.1	133589.57	UPI	4.5
+ORD10031	2026-06-01 00:00:00	Zoya	Rice 5kg	Grocery	Hyderabad	South	Sneha	3	419.83	0.15	1059.72	Online	2.5
+ORD10437	2026-06-02 00:00:00	Tanvi	Smartphone	Electronics	Ahmedabad	West	Rahul	8	28553.52	0.15	163579.11	UPI	3
+ORD10072	2026-06-02 00:00:00	Tanya	Keyboard	Electronics	Kolkata	East	Pooja	1	2070.37	0.25	1328.12	Card	4.5
+ORD10718	2026-06-03 00:00:00	Diya	Moisturizer	Beauty	Bengaluru	South	Anjali	6	709.71	0	2671.61	UPI	3
+ORD10011	2026-06-03 00:00:00	Riya	Laptop	Electronics	Chennai	South	Rahul	7	64036.78	0	322993.15	Cash	3.5
+ORD10516	2026-06-04 00:00:00	Simran	Laptop	Electronics	Jaipur	North	Amit	13	61390.8	0	646943.44	Cash	3
+ORD10746	2026-06-07 00:00:00	Manish	Shampoo	Beauty	Patna	East	Neha	6	547.34	0.1	2113.76	UPI	4.5
+ORD10897	2026-06-09 00:00:00	Aditya	Desk	Furniture	Ahmedabad	West	Rahul	7	14206.4	0.15	72788.72	Online	3.5
+ORD10822	2026-06-09 00:00:00	Sahil	Laptop	Electronics	Kolkata	East	Vikram	6	64710.01	0.15	283953.35	Card	4
+ORD10054	2026-06-10 00:00:00	Priya	Shampoo	Beauty	Chennai	South	Vikram	1	527.79	0.2	350.27	UPI	3
+ORD10515	2026-06-12 00:00:00	Vivek	Smartphone	Electronics	Pune	West	Karan	3	30755.13	0.1	62430.57	Online	4.5
+ORD10195	2026-06-12 00:00:00	Riya	Bookshelf	Furniture	Jaipur	North	Priya	4	8610.77	0.05	22475.35	Cash	3.5
+ORD10396	2026-06-13 00:00:00	Varun	Moisturizer	Beauty	Chennai	South	Vikram	1	733.51	0.25	450.57	Card	3.5
+ORD10815	2026-06-14 00:00:00	Sanya	Shampoo	Beauty	Ahmedabad	West	Pooja	4	585.61	0.1	1373.23	UPI	3.5
+ORD10241	2026-06-14 00:00:00	Rohan	Moisturizer	Beauty	Bengaluru	South	Neha	10	677.01	0.15	4042.94	Cash	4
+ORD10695	2026-06-16 00:00:00	Neha	Headphones	Electronics	Bhubaneswar	East	Anjali	6	3243.17	0.1	13008.16	Card	4.5
+ORD10449	2026-06-16 00:00:00	Karan	Sofa	Furniture	Bengaluru	South	Sneha	3	41877.29	0.05	91513.55	UPI	2.5
+ORD10564	2026-06-18 00:00:00	Sakshi	Laptop	Electronics	Pune	West	Rohan	6	63808.38	0.15	289183.58	Card	3.5
+ORD10436	2026-06-18 00:00:00	Yash	Tea	Grocery	Hyderabad	South	Priya	1	297.31	0.2	201.8	UPI	5
+ORD10278	2026-06-19 00:00:00	Meera	Cooking Oil	Grocery	Ahmedabad	West	Pooja	2	194.29	0.1	257.15	Card	3.5
+ORD10398	2026-06-21 00:00:00	Diya	T-Shirt	Clothing	Delhi	North	Karan	10	1159.21	0	6369.81	UPI	4
+ORD10628	2026-06-21 00:00:00	Vivek	Coffee	Grocery	Chennai	South	Amit	11	583.01	0.15	3942.54	UPI	3
+ORD10705	2026-06-22 00:00:00	Nisha	Smartphone	Electronics	Hyderabad	South	Neha	8	29966.77	0.15	163274.69	UPI	4
+ORD10560	2026-06-24 00:00:00	Simran	Rice 5kg	Grocery	Patna	East	Rahul	11	447.09	0.2	3728.41	UPI	4.5
+ORD10771	2026-06-24 00:00:00	Sakshi	Headphones	Electronics	Ahmedabad	West	Pooja	2	3228.29	0	4580.07	Cash	3.5
+ORD10645	2026-06-24 00:00:00	Priya	Headphones	Electronics	Jaipur	North	Neha	3	3507.05	0.25	6567.26	UPI	3
+ORD10348	2026-06-24 00:00:00	Simran	Smartphone	Electronics	Pune	West	Neha	5	27909.77	0.05	105978.53	Online	4.5
+ORD10402	2026-06-25 00:00:00	Manish	Perfume	Beauty	Ahmedabad	West	Karan	7	1922.97	0.05	7852.57	Card	5
+ORD10495	2026-06-25 00:00:00	Aditya	Jeans	Clothing	Bengaluru	South	Sneha	9	2542.48	0	12635.92	UPI	4.5
+ORD10631	2026-06-25 00:00:00	Pooja	Tea	Grocery	Jaipur	North	Anjali	6	285.22	0	1280.92	UPI	4
+ORD10427	2026-06-26 00:00:00	Nisha	Jeans	Clothing	Kolkata	East	Sneha	6	2326.36	0	8064.39	UPI	2.5
+ORD10286	2026-06-28 00:00:00	Arjun	Laptop	Electronics	Patna	East	Priya	1	68281.07	0.2	47969.78	UPI	4.5
+ORD10878	2026-06-28 00:00:00	Tanya	Cooking Oil	Grocery	Bengaluru	South	Neha	7	167.69	0.15	964.64	Card	3.5
+ORD10299	2026-07-01 00:00:00	Arjun	Rice 5kg	Grocery	Bengaluru	South	Vikram	6	482.84	0.1	2149.96	Card	4.5
+ORD10289	2026-07-02 00:00:00	Tanvi	Desk	Furniture	Lucknow	North	Neha	7	13880.76	0.15	66985.32	Card	3.5
+ORD10238	2026-07-03 00:00:00	Meera	Laptop	Electronics	Kolkata	East	Sneha	2	69261.16	0.05	101557.14	UPI	3.5
+ORD10224	2026-07-03 00:00:00	Varun	Dining Table	Furniture	Pune	West	Priya	5	24221.73	0	87868.82	UPI	4.5
+ORD10202	2026-07-04 00:00:00	Nisha	Smartphone	Electronics	Jaipur	North	Rahul	9	29453.55	0.05	199305.72	UPI	4.5
+ORD10587	2026-07-04 00:00:00	Arjun	Smartphone	Electronics	Ahmedabad	West	Anjali	1	28072.49	0.15	22050.35	Online	5
+ORD10854	2026-07-05 00:00:00	Sakshi	Shampoo	Beauty	Pune	West	Rahul	8	532.14	0.25	2650.24	Cash	4
+ORD10102	2026-07-07 00:00:00	Sakshi	Rice 5kg	Grocery	Delhi	North	Amit	3	468.65	0	1047.31	Cash	4
+ORD10447	2026-07-11 00:00:00	Neha	Lipstick	Beauty	Mumbai	West	Priya	12	914.6	0	6356.4	Online	4.5
+ORD10898	2026-07-11 00:00:00	Rahul	Shampoo	Beauty	Hyderabad	South	Anjali	4	556.32	0.15	1414.09	UPI	3
+ORD10319	2026-07-12 00:00:00	Meera	Monitor	Electronics	Chennai	South	Amit	1	13260.78	0.15	9312.29	UPI	4.5
+ORD10044	2026-07-13 00:00:00	Rahul	Perfume	Beauty	Bengaluru	South	Karan	9	1901.5	0	9900.35	Card	4.5
+ORD10353	2026-07-13 00:00:00	Tanvi	Cooking Oil	Grocery	Bengaluru	South	Rahul	2	189.58	0.15	281.37	Card	3.5
+ORD10117	2026-07-14 00:00:00	Tanya	Dry Fruits	Grocery	Bengaluru	South	Anjali	12	968.75	0	7366.96	UPI	4
+ORD10133	2026-07-14 00:00:00	Tanya	Headphones	Electronics	Bhubaneswar	East	Vikram	9	3291.97	0.1	18674.15	UPI	3.5
+ORD10433	2026-07-14 00:00:00	Manish	Rice 5kg	Grocery	Lucknow	North	Rahul	3	435.08	0.2	996.98	Online	4
+ORD10378	2026-07-14 00:00:00	Neha	Laptop	Electronics	Chennai	South	Neha	2	69283.47	0.1	98752.66	Cash	4.5
+ORD10470	2026-07-15 00:00:00	Riya	Moisturizer	Beauty	Lucknow	North	Karan	1	743.36	0.25	422.68	Card	5
+ORD10651	2026-07-16 00:00:00	Ishaan	Smartphone	Electronics	Pune	West	Rahul	4	27797.89	0.05	81488.05	Online	4
+ORD10649	2026-07-17 00:00:00	Sahil	Dry Fruits	Grocery	Chennai	South	Rohan	13	941.87	0.15	8322.16	Cash	4.5
+ORD10755	2026-07-18 00:00:00	Varun	Headphones	Electronics	Jaipur	North	Pooja	2	3430.21	0	4263.56	UPI	2.5
+ORD10025	2026-07-19 00:00:00	Sahil	Jeans	Clothing	Pune	West	Vikram	5	2668.57	0	6688.04	Card	4
+ORD10946	2026-07-19 00:00:00	Nisha	Laptop	Electronics	Lucknow	North	Priya	1	64437.85	0.25	46414.05	Cash	4
+ORD10287	2026-07-21 00:00:00	Sakshi	Jeans	Clothing	Mumbai	West	Karan	2	2353.5	0.25	2929.6	Online	2.5
+ORD10937	2026-07-21 00:00:00	Aditya	Laptop	Electronics	Bengaluru	South	Anjali	7	61947.03	0.05	343554.85	UPI	3
+ORD10661	2026-07-21 00:00:00	Priya	Dining Table	Furniture	Bengaluru	South	Sneha	10	26179.19	0	162102.31	UPI	3
+ORD10982	2026-07-22 00:00:00	Sahil	Coffee	Grocery	Hyderabad	South	Priya	7	537.61	0	2692	UPI	4
+ORD10767	2026-07-22 00:00:00	Yash	Coffee	Grocery	Bhubaneswar	East	Vikram	1	525.67	0	359.74	Card	4.5
+ORD10226	2026-07-22 00:00:00	Tanya	Office Chair	Furniture	Mumbai	West	Rahul	15	12330.63	0.1	115633.33	Card	4
+ORD10064	2026-07-23 00:00:00	Tanya	Dining Table	Furniture	Hyderabad	South	Sneha	7	23736.88	0.15	118098.36	UPI	5
+ORD10032	2026-07-23 00:00:00	Riya	Monitor	Electronics	Lucknow	North	Neha	4	14977.18	0.2	39672.11	Online	2.5
+ORD10750	2026-07-24 00:00:00	Rahul	Rice 5kg	Grocery	Patna	East	Vikram	3	450.4	0	1039.06	UPI	3
+ORD10229	2026-07-24 00:00:00	Simran	Shampoo	Beauty	Patna	East	Sneha	4	582.55	0	1337.2	Card	4.5
+ORD10073	2026-07-24 00:00:00	Ishaan	Laptop	Electronics	Jaipur	North	Neha	2	68561.55	0	92871.99	Card	2.5
+ORD10496	2026-07-25 00:00:00	Sakshi	Dining Table	Furniture	Patna	East	Priya	7	23097.92	0.05	123151.24	Online	3
+ORD10670	2026-07-25 00:00:00	Priya	Desk	Furniture	Chennai	South	Sneha	9	15321.82	0	95234.16	UPI	4
+ORD10461	2026-07-26 00:00:00	Ananya	Headphones	Electronics	Bhubaneswar	East	Amit	6	3692.93	0.25	13330.45	UPI	2.5
+ORD10630	2026-07-27 00:00:00	Riya	Office Chair	Furniture	Bhubaneswar	East	Pooja	2	11694.5	0	16547.11	Cash	4
+ORD10252	2026-07-27 00:00:00	Meera	Sofa	Furniture	Chennai	South	Amit	13	42198.63	0	398466.21	UPI	5
+ORD10595	2026-07-27 00:00:00	Ananya	Shampoo	Beauty	Pune	West	Rahul	2	541.14	0	673.52	UPI	4
+ORD10637	2026-07-27 00:00:00	Arjun	Sneakers	Clothing	Bhubaneswar	East	Anjali	2	4915.18	0.05	5831.03	Card	5
+ORD10395	2026-07-28 00:00:00	Sanya	Bookshelf	Furniture	Lucknow	North	Pooja	1	9625.32	0.1	5512.15	UPI	3.5
+ORD10509	2026-07-28 00:00:00	Sakshi	Moisturizer	Beauty	Jaipur	North	Priya	7	647.54	0.2	2922.77	UPI	3.5
+ORD10067	2026-07-28 00:00:00	Simran	Headphones	Electronics	Kolkata	East	Rohan	8	3240.03	0.2	17659.61	Card	4
+ORD10458	2026-07-28 00:00:00	Riya	Jeans	Clothing	Hyderabad	South	Rohan	12	2457.79	0.05	17769.96	UPI	4.5
+ORD10563	2026-07-29 00:00:00	Sakshi	Headphones	Electronics	Pune	West	Karan	1	3296.56	0	2178.01	Online	3.5
+ORD10185	2026-07-29 00:00:00	Zoya	Office Chair	Furniture	Bhubaneswar	East	Priya	1	11441.9	0.1	7751.24	Card	2.5
+ORD10505	2026-07-30 00:00:00	Rahul	Cooking Oil	Grocery	Patna	East	Anjali	3	171.78	0.05	411.69	UPI	3
+ORD10084	2026-08-06 00:00:00	Aditya	Smartphone	Electronics	Hyderabad	South	Rohan	3	29664.27	0.05	66662.38	Online	3
+ORD10497	2026-08-06 00:00:00	Zoya	Backpack	Clothing	Delhi	North	Karan	9	1659.43	0.05	8776.61	UPI	3
+ORD10759	2026-08-07 00:00:00	Tanvi	Shampoo	Beauty	Pune	West	Rohan	5	545.73	0.2	1696.86	UPI	3.5
+ORD10360	2026-08-07 00:00:00	Rahul	Backpack	Clothing	Lucknow	North	Neha	2	1870.82	0	1970.79	Card	3.5
+ORD10091	2026-08-09 00:00:00	Nitin	Headphones	Electronics	Mumbai	West	Priya	2	3638.14	0.2	4185.54	Card	3.5
+ORD10551	2026-08-09 00:00:00	Manish	Jacket	Clothing	Hyderabad	South	Rahul	10	4494.73	0.1	26478.34	UPI	3.5
+ORD10706	2026-08-10 00:00:00	Kavya	Lipstick	Beauty	Bengaluru	South	Neha	8	929.43	0.2	4311.14	Card	4
+ORD10208	2026-08-12 00:00:00	Aarav	Cooking Oil	Grocery	Chennai	South	Amit	12	175.13	0.15	1666.71	Card	4.5
+ORD10848	2026-08-12 00:00:00	Vivek	Lipstick	Beauty	Delhi	North	Pooja	11	869.24	0.05	5901.38	Cash	5
+ORD10569	2026-08-14 00:00:00	Sahil	Perfume	Beauty	Mumbai	West	Priya	4	1740.22	0.1	4557.49	UPI	3.5
+ORD10052	2026-08-14 00:00:00	Pooja	Coffee	Grocery	Pune	West	Vikram	3	565.01	0.15	1115.15	Cash	4
+ORD10529	2026-08-16 00:00:00	Varun	Smartphone	Electronics	Lucknow	North	Vikram	15	29448.24	0	324057.18	Card	3.5
+ORD10270	2026-08-18 00:00:00	Meera	Desk	Furniture	Jaipur	North	Anjali	6	13917.97	0.15	56438.26	UPI	3
+ORD10016	2026-08-18 00:00:00	Vivek	Keyboard	Electronics	Bhubaneswar	East	Neha	3	2087.24	0.15	4115.09	Card	3
+ORD10127	2026-08-18 00:00:00	Akash	Face Wash	Beauty	Chennai	South	Amit	4	463.92	0.15	1158.27	Card	4
+ORD10892	2026-08-19 00:00:00	Sanya	Face Wash	Beauty	Lucknow	North	Rohan	8	414.56	0.25	2308	UPI	2.5
+ORD10106	2026-08-19 00:00:00	Vivek	Office Chair	Furniture	Hyderabad	South	Rahul	9	12324.83	0	74008.29	Online	4.5
+ORD10269	2026-08-19 00:00:00	Rahul	Dining Table	Furniture	Mumbai	West	Pooja	4	26636.93	0.1	64750.32	Cash	3.5
+ORD10327	2026-08-20 00:00:00	Akash	Sneakers	Clothing	Hyderabad	South	Rahul	1	4991.76	0.1	3094.53	Card	4.5
+ORD10413	2026-08-21 00:00:00	Riya	Moisturizer	Beauty	Delhi	North	Amit	6	698.61	0.05	2641.19	Online	4
+ORD10610	2026-08-21 00:00:00	Pooja	Cooking Oil	Grocery	Mumbai	West	Neha	3	186.77	0.15	386.07	UPI	3
+ORD10316	2026-08-22 00:00:00	Neha	Cooking Oil	Grocery	Lucknow	North	Priya	3	170.7	0.1	401.53	UPI	2.5
+ORD10212	2026-08-26 00:00:00	Tanya	Cooking Oil	Grocery	Delhi	North	Karan	10	193.97	0	1273.67	UPI	2.5
+ORD10167	2026-08-28 00:00:00	Simran	Bookshelf	Furniture	Pune	West	Neha	5	9423.21	0.1	30302.96	Cash	3.5
+ORD10197	2026-08-29 00:00:00	Yash	Tea	Grocery	Pune	West	Rahul	7	302.93	0.05	1405.52	UPI	3
+ORD10522	2026-08-29 00:00:00	Aarav	Sofa	Furniture	Bengaluru	South	Priya	2	43079.41	0.05	63741.51	Card	3.5
+ORD10333	2026-08-29 00:00:00	Tanvi	Laptop	Electronics	Patna	East	Amit	1	67120.7	0	48868.62	UPI	4
+ORD10934	2026-08-29 00:00:00	Akash	Sneakers	Clothing	Mumbai	West	Karan	1	4951.37	0	3123.57	UPI	4.5
+ORD10851	2026-08-30 00:00:00	Neha	Smartphone	Electronics	Jaipur	North	Neha	3	28465.71	0	65581.86	Card	4
+ORD10736	2026-08-30 00:00:00	Ishaan	Shampoo	Beauty	Lucknow	North	Karan	7	544.58	0.05	2311.91	UPI	4
+ORD10567	2026-08-31 00:00:00	Ishaan	T-Shirt	Clothing	Patna	East	Vikram	4	1105.59	0.1	2687.35	UPI	2.5
+ORD10870	2026-08-31 00:00:00	Akash	Moisturizer	Beauty	Jaipur	North	Neha	2	660.65	0.05	855.49	UPI	2.5
+ORD10928	2026-08-31 00:00:00	Rohan	Sneakers	Clothing	Bengaluru	South	Pooja	7	4798.77	0.1	21359.18	Card	3.5
+ORD10135	2026-09-02 00:00:00	Tanvi	Moisturizer	Beauty	Hyderabad	South	Karan	3	748.81	0.05	1248.82	Card	3.5
+ORD10879	2026-09-03 00:00:00	Nitin	Laptop	Electronics	Chennai	South	Rohan	10	68382.01	0.15	468761.05	UPI	4
+ORD10985	2026-09-06 00:00:00	Sahil	Tea	Grocery	Lucknow	North	Sneha	14	294.85	0.2	2967.43	Card	3.5
+ORD10259	2026-09-06 00:00:00	Aditi	Backpack	Clothing	Bengaluru	South	Anjali	2	1854.33	0.1	2114.88	Online	3.5
+ORD10973	2026-09-07 00:00:00	Ananya	Tea	Grocery	Delhi	North	Neha	2	283.79	0	415.78	Online	5
+ORD10678	2026-09-08 00:00:00	Yash	T-Shirt	Clothing	Delhi	North	Karan	2	1160.18	0.05	1277.81	UPI	3
+ORD10517	2026-09-08 00:00:00	Arjun	Sofa	Furniture	Mumbai	West	Rahul	5	45073.78	0.05	163880.11	Card	3
+ORD10326	2026-09-08 00:00:00	Rahul	Tea	Grocery	Lucknow	North	Pooja	1	322.19	0	218.42	Online	2.5
+ORD10151	2026-09-10 00:00:00	Riya	Perfume	Beauty	Kolkata	East	Amit	2	1743.41	0.1	2159.17	UPI	3.5
+ORD10220	2026-09-11 00:00:00	Sahil	Face Wash	Beauty	Bhubaneswar	East	Karan	4	443.1	0	1170.45	UPI	4.5
+ORD10464	2026-09-11 00:00:00	Ishaan	Backpack	Clothing	Patna	East	Vikram	7	1755.49	0.05	6798.07	UPI	3.5
+ORD10237	2026-09-11 00:00:00	Simran	Desk	Furniture	Kolkata	East	Priya	9	14376.75	0.1	91720.98	UPI	4
+ORD10331	2026-09-12 00:00:00	Sanya	Dining Table	Furniture	Delhi	North	Sneha	1	26373.21	0.15	16718.01	UPI	4.5
+ORD10267	2026-09-13 00:00:00	Diya	Tea	Grocery	Mumbai	West	Rahul	3	291.56	0.1	600.59	UPI	5
+ORD10550	2026-09-14 00:00:00	Nisha	Coffee	Grocery	Bengaluru	South	Neha	3	519.89	0.05	1176.16	Card	3.5
+ORD10643	2026-09-14 00:00:00	Rohan	Keyboard	Electronics	Bengaluru	South	Pooja	4	2155.48	0.1	5326.02	UPI	3.5
+ORD10290	2026-09-14 00:00:00	Nisha	Backpack	Clothing	Mumbai	West	Amit	3	1831.33	0.2	2884.55	Card	4.5
+ORD10936	2026-09-16 00:00:00	Vivek	Office Chair	Furniture	Hyderabad	South	Vikram	1	12713.85	0.25	7669.65	Card	5
+ORD10322	2026-09-16 00:00:00	Tanya	Tea	Grocery	Pune	West	Sneha	11	277.28	0.05	2174.84	Online	3.5
+ORD10235	2026-09-18 00:00:00	Diya	Keyboard	Electronics	Lucknow	North	Sneha	5	2371.32	0	6593.09	Card	3.5
+ORD10015	2026-09-18 00:00:00	Ananya	Keyboard	Electronics	Patna	East	Karan	9	2186.87	0.1	12130.32	Card	2.5
+ORD10900	2026-09-18 00:00:00	Sanya	Smartphone	Electronics	Mumbai	West	Anjali	5	29830.68	0.05	106456.71	Card	3.5
+ORD10715	2026-09-20 00:00:00	Aarav	Dining Table	Furniture	Delhi	North	Vikram	9	26756.44	0.15	148409.98	Card	4
+ORD10939	2026-09-20 00:00:00	Ananya	Headphones	Electronics	Hyderabad	South	Amit	13	3308.31	0.1	27749.79	Card	4
+ORD10403	2026-09-21 00:00:00	Vivek	Jacket	Clothing	Patna	East	Rahul	8	4637.41	0.1	22343.82	Online	5
+ORD10303	2026-09-22 00:00:00	Aditya	Sneakers	Clothing	Mumbai	West	Pooja	12	5068.97	0.1	37141.58	Cash	3.5
+ORD10418	2026-09-22 00:00:00	Priya	Bookshelf	Furniture	Ahmedabad	West	Vikram	2	8499.13	0.05	11149.89	Online	2.5
+ORD10741	2026-09-23 00:00:00	Aditi	Jeans	Clothing	Ahmedabad	West	Anjali	14	2376.6	0.05	18817.49	UPI	4.5
+ORD10733	2026-09-23 00:00:00	Karan	Cooking Oil	Grocery	Kolkata	East	Pooja	3	179.9	0	394.16	Card	3.5
+ORD10410	2026-09-24 00:00:00	Arjun	Smartphone	Electronics	Delhi	North	Rohan	2	29311.09	0.2	40300.39	Card	4.5
+ORD10342	2026-09-26 00:00:00	Yash	Jeans	Clothing	Patna	East	Vikram	14	2326.67	0	20375.38	Cash	4
+ORD10451	2026-09-27 00:00:00	Diya	Dry Fruits	Grocery	Mumbai	West	Rohan	12	899.58	0.2	8036.63	UPI	4
+ORD10090	2026-09-28 00:00:00	Zoya	Jeans	Clothing	Bengaluru	South	Sneha	6	2455.45	0.1	8315.32	Online	3.5
+ORD10774	2026-09-29 00:00:00	Sanya	T-Shirt	Clothing	Mumbai	West	Pooja	3	1140.26	0.25	1895.85	Card	4
+ORD10338	2026-09-30 00:00:00	Manish	Tea	Grocery	Hyderabad	South	Vikram	4	298.5	0.1	819.21	UPI	3
+ORD10758	2026-09-30 00:00:00	Tanya	Sneakers	Clothing	Bhubaneswar	East	Amit	7	5077.21	0.2	20541.74	Cash	5
+ORD10899	2026-10-01 00:00:00	Ananya	Laptop	Electronics	Bengaluru	South	Neha	1	61981.66	0.15	45546.87	UPI	4.5
+ORD10203	2026-10-01 00:00:00	Aarav	Monitor	Electronics	Chennai	South	Amit	5	14919.84	0.15	50135.11	Card	4
+ORD10383	2026-10-02 00:00:00	Rohan	Rice 5kg	Grocery	Jaipur	North	Sneha	7	482.64	0.2	2332.72	Cash	3.5
+ORD10713	2026-10-02 00:00:00	Ishaan	Jeans	Clothing	Hyderabad	South	Priya	1	2657.2	0.05	1436.82	Online	4
+ORD10786	2026-10-04 00:00:00	Rohan	Perfume	Beauty	Mumbai	West	Anjali	10	1851.11	0	11341.1	Cash	4.5
+ORD10698	2026-10-05 00:00:00	Karan	Backpack	Clothing	Ahmedabad	West	Karan	13	1690.51	0.05	12923.7	Card	2.5
+ORD10866	2026-10-05 00:00:00	Ananya	Backpack	Clothing	Jaipur	North	Priya	2	1922.3	0.25	1965.02	UPI	3.5
+ORD10459	2026-10-06 00:00:00	Karan	Smartphone	Electronics	Patna	East	Vikram	10	31243.33	0.05	210289.32	UPI	3
+ORD10166	2026-10-06 00:00:00	Diya	Face Wash	Beauty	Mumbai	West	Amit	9	457.99	0.2	2483.17	UPI	4.5
+ORD10262	2026-10-07 00:00:00	Tanya	Lipstick	Beauty	Jaipur	North	Amit	11	863.89	0.1	5611.46	Online	5
+ORD10667	2026-10-07 00:00:00	Pooja	Office Chair	Furniture	Delhi	North	Pooja	7	12115.88	0	52786.08	UPI	4.5
+ORD10330	2026-10-08 00:00:00	Priya	Office Chair	Furniture	Bhubaneswar	East	Vikram	1	12053.39	0.15	8479.72	UPI	2.5
+ORD10435	2026-10-10 00:00:00	Sanya	Smartphone	Electronics	Ahmedabad	West	Rahul	4	28570	0.1	88562.63	UPI	2.5
+ORD10225	2026-10-11 00:00:00	Yash	Office Chair	Furniture	Kolkata	East	Rahul	9	11742.57	0.05	69767.45	Cash	4
+ORD10952	2026-10-11 00:00:00	Neha	Cooking Oil	Grocery	Pune	West	Pooja	13	172.16	0.2	1752.94	Card	4.5
+ORD10769	2026-10-12 00:00:00	Pooja	Bookshelf	Furniture	Mumbai	West	Neha	6	9180.21	0	34126.17	UPI	4
+ORD10343	2026-10-12 00:00:00	Sanya	Monitor	Electronics	Bhubaneswar	East	Anjali	9	14139.73	0.05	87252.68	Card	2.5
+ORD10524	2026-10-12 00:00:00	Akash	Face Wash	Beauty	Lucknow	North	Rahul	6	468.77	0	1676.11	Card	5
+ORD10200	2026-10-12 00:00:00	Karan	Dry Fruits	Grocery	Pune	West	Amit	2	844.34	0.2	1260.62	UPI	3.5
+ORD10146	2026-10-12 00:00:00	Priya	Laptop	Electronics	Bengaluru	South	Sneha	7	66943.41	0	352664.24	Card	4.5
+ORD10642	2026-10-13 00:00:00	Manish	Bookshelf	Furniture	Mumbai	West	Rohan	2	8936.09	0.15	11755.77	UPI	4.5
+ORD10591	2026-10-14 00:00:00	Sakshi	Headphones	Electronics	Bhubaneswar	East	Anjali	5	3742.61	0.1	11578.64	UPI	5
+ORD10317	2026-10-15 00:00:00	Nisha	T-Shirt	Clothing	Delhi	North	Neha	3	1128.33	0.15	1965.51	Card	5
+ORD10684	2026-10-16 00:00:00	Pooja	Cooking Oil	Grocery	Patna	East	Pooja	15	173.55	0	2129.58	UPI	4
+ORD10677	2026-10-17 00:00:00	Karan	Headphones	Electronics	Delhi	North	Anjali	3	3690.27	0.15	6993.76	Card	3.5
+ORD10601	2026-10-17 00:00:00	Nisha	Monitor	Electronics	Patna	East	Vikram	5	13234.2	0.1	46579.6	UPI	4
+ORD10155	2026-10-19 00:00:00	Kavya	Lipstick	Beauty	Lucknow	North	Vikram	8	925.06	0.1	3938.6	Card	3
+ORD10430	2026-10-20 00:00:00	Rahul	Headphones	Electronics	Delhi	North	Priya	9	3363.92	0.1	20190.03	UPI	4.5
+ORD10535	2026-10-20 00:00:00	Aarav	Coffee	Grocery	Kolkata	East	Karan	8	553.35	0.05	3188.7	UPI	3.5
+ORD10423	2026-10-21 00:00:00	Aditya	Smartphone	Electronics	Kolkata	East	Amit	15	29209.58	0	326939.33	Card	4.5
+ORD10826	2026-10-22 00:00:00	Ishaan	Perfume	Beauty	Chennai	South	Anjali	6	1817.51	0.15	6384.9	UPI	4.5
+ORD10708	2026-10-22 00:00:00	Yash	Dry Fruits	Grocery	Bhubaneswar	East	Sneha	13	917.84	0.2	8513.39	Card	3.5
+ORD10002	2026-10-22 00:00:00	Varun	Moisturizer	Beauty	Chennai	South	Karan	2	706.76	0.1	880.11	Online	2.5
+ORD10935	2026-10-23 00:00:00	Nitin	Monitor	Electronics	Pune	West	Vikram	4	13976.68	0.05	37139.87	Online	4.5
+ORD10650	2026-10-23 00:00:00	Kavya	Jacket	Clothing	Jaipur	North	Neha	5	4545.23	0.15	12766.67	UPI	4
+ORD10132	2026-10-24 00:00:00	Sahil	Keyboard	Electronics	Kolkata	East	Sneha	6	2369.63	0.05	8172.43	UPI	3.5
+ORD10301	2026-10-24 00:00:00	Sahil	Smartphone	Electronics	Jaipur	North	Rahul	2	29901.2	0	42069.07	Card	4
+ORD10243	2026-10-24 00:00:00	Simran	Perfume	Beauty	Mumbai	West	Sneha	8	1941.4	0.2	8824.86	Card	2.5
+ORD10334	2026-10-24 00:00:00	Yash	Headphones	Electronics	Ahmedabad	West	Vikram	4	3762	0	9183.3	Online	3.5
+ORD10359	2026-10-26 00:00:00	Rohan	Moisturizer	Beauty	Kolkata	East	Pooja	5	679.64	0	2063.82	Online	3.5
+ORD10638	2026-10-27 00:00:00	Karan	Office Chair	Furniture	Jaipur	North	Rohan	5	11363	0.05	40930.46	UPI	3
+ORD10279	2026-10-27 00:00:00	Pooja	Tea	Grocery	Delhi	North	Vikram	1	284.67	0	200.68	UPI	3
+ORD10964	2026-10-29 00:00:00	Priya	T-Shirt	Clothing	Chennai	South	Rahul	14	1186.01	0.05	8809.03	UPI	3.5
+ORD10999	2026-10-30 00:00:00	Sahil	Moisturizer	Beauty	Mumbai	West	Rahul	1	702.57	0	410.11	Card	3
+ORD10408	2026-10-30 00:00:00	Ananya	Laptop	Electronics	Jaipur	North	Amit	10	61344.58	0.05	475044.54	Online	4
+ORD10098	2026-10-31 00:00:00	Ananya	T-Shirt	Clothing	Mumbai	West	Anjali	11	1196.74	0.2	7490.2	Card	3
+ORD10068	2026-10-31 00:00:00	Tanvi	Dry Fruits	Grocery	Patna	East	Sneha	7	923.31	0.05	4390.28	UPI	4
+ORD10472	2026-11-02 00:00:00	Tanvi	Moisturizer	Beauty	Mumbai	West	Amit	14	705.22	0.15	6058.64	Cash	3.5
+ORD10318	2026-11-03 00:00:00	Pooja	Monitor	Electronics	Patna	East	Rahul	3	13772.42	0.2	27763.32	UPI	2.5
+ORD10856	2026-11-03 00:00:00	Aditya	Keyboard	Electronics	Ahmedabad	West	Karan	10	2271	0.1	12302.12	Cash	4
+ORD10345	2026-11-05 00:00:00	Varun	T-Shirt	Clothing	Patna	East	Vikram	4	1194.31	0	2742.35	Card	2.5
+ORD10599	2026-11-06 00:00:00	Arjun	Keyboard	Electronics	Patna	East	Anjali	4	2042.26	0.1	5475.95	Card	5
+ORD10568	2026-11-06 00:00:00	Yash	T-Shirt	Clothing	Chennai	South	Neha	5	1231.99	0.2	3175.43	Card	3.5
+ORD10562	2026-11-08 00:00:00	Yash	Keyboard	Electronics	Lucknow	North	Rahul	15	2364.74	0	19974.9	Card	4.5
+ORD10315	2026-11-08 00:00:00	Zoya	Face Wash	Beauty	Bhubaneswar	East	Rahul	14	479.06	0.05	3737.01	UPI	2.5
+ORD10655	2026-11-09 00:00:00	Rohan	T-Shirt	Clothing	Ahmedabad	West	Rohan	2	1126.72	0.2	1340.67	Card	2.5
+ORD10543	2026-11-09 00:00:00	Varun	Keyboard	Electronics	Pune	West	Amit	7	2183.2	0.2	8571.59	UPI	4
+ORD10821	2026-11-10 00:00:00	Ananya	Dry Fruits	Grocery	Chennai	South	Karan	1	927.92	0.1	679.97	UPI	4.5
+ORD10351	2026-11-10 00:00:00	Sakshi	Jacket	Clothing	Jaipur	North	Anjali	4	4368.24	0.15	11253.58	Card	4.5
+ORD10045	2026-11-10 00:00:00	Tanvi	Office Chair	Furniture	Delhi	North	Sneha	5	12343.49	0.05	39481.45	Online	4.5
+ORD10233	2026-11-11 00:00:00	Aarav	Backpack	Clothing	Kolkata	East	Neha	11	1682.28	0.1	10365.74	Card	3
+ORD10177	2026-11-11 00:00:00	Priya	Cooking Oil	Grocery	Hyderabad	South	Karan	5	191.86	0.1	687.35	Online	3
+ORD10077	2026-11-12 00:00:00	Aditya	Coffee	Grocery	Lucknow	North	Rahul	11	579.62	0.25	4186.17	Card	2.5
+ORD10510	2026-11-13 00:00:00	Manish	Tea	Grocery	Delhi	North	Sneha	10	319.23	0.15	2181.56	UPI	5
+ORD10974	2026-11-14 00:00:00	Tanya	Keyboard	Electronics	Bengaluru	South	Priya	6	2317.21	0.1	8255.99	UPI	5
+ORD10634	2026-11-14 00:00:00	Sanya	Sneakers	Clothing	Hyderabad	South	Karan	1	5025.28	0.1	2887.24	Card	2.5
+ORD10444	2026-11-16 00:00:00	Rohan	Sofa	Furniture	Chennai	South	Pooja	5	46987.03	0.15	160534.29	Online	2.5
+ORD10547	2026-11-16 00:00:00	Tanya	Headphones	Electronics	Ahmedabad	West	Karan	9	3571.43	0.15	19458.77	Online	3.5
+ORD10911	2026-11-17 00:00:00	Priya	Backpack	Clothing	Chennai	South	Karan	9	1797.31	0.2	9503.39	Online	3
+ORD10210	2026-11-17 00:00:00	Zoya	Monitor	Electronics	Chennai	South	Rohan	11	14212.7	0.1	108185.42	Card	5
+ORD10573	2026-11-19 00:00:00	Aditi	T-Shirt	Clothing	Lucknow	North	Anjali	2	1128.22	0.15	1250.92	Card	3
+ORD10814	2026-11-19 00:00:00	Ishaan	Perfume	Beauty	Pune	West	Pooja	8	1898.95	0.05	8460.23	Online	4.5
+ORD10588	2026-11-19 00:00:00	Ishaan	Headphones	Electronics	Mumbai	West	Vikram	1	3533.7	0.1	2108.61	Card	5
+ORD10082	2026-11-20 00:00:00	Diya	Rice 5kg	Grocery	Pune	West	Neha	13	455.39	0.1	4496.64	UPI	4
+ORD10158	2026-11-21 00:00:00	Simran	Coffee	Grocery	Delhi	North	Rohan	7	541.34	0.1	2596.32	UPI	5
+ORD10572	2026-11-21 00:00:00	Priya	Dry Fruits	Grocery	Kolkata	East	Anjali	2	829.2	0.1	1234.9	UPI	3
+ORD10213	2026-11-22 00:00:00	Meera	Cooking Oil	Grocery	Ahmedabad	West	Anjali	8	175.34	0.2	1029.18	UPI	5
+ORD10949	2026-11-23 00:00:00	Aarav	Shampoo	Beauty	Lucknow	North	Anjali	7	511.67	0.2	2319.18	UPI	4
+ORD10426	2026-11-24 00:00:00	Simran	Sneakers	Clothing	Jaipur	North	Priya	10	5367.7	0	29486.89	UPI	4.5
+ORD10953	2026-11-25 00:00:00	Ananya	Monitor	Electronics	Mumbai	West	Rohan	2	13682.57	0.15	19747.45	Card	4
+ORD10454	2026-11-25 00:00:00	Varun	Perfume	Beauty	Kolkata	East	Rohan	6	1678.9	0.05	6590.53	Card	4.5
+ORD10050	2026-11-25 00:00:00	Nisha	Keyboard	Electronics	Jaipur	North	Vikram	4	2089.68	0.1	5056.08	Online	4.5
+ORD10662	2026-11-25 00:00:00	Riya	Lipstick	Beauty	Kolkata	East	Rahul	9	904.83	0.05	4456.07	UPI	4
+ORD10223	2026-11-25 00:00:00	Yash	Smartphone	Electronics	Hyderabad	South	Pooja	7	31001.67	0.1	140198.69	UPI	4.5
+ORD10617	2026-11-26 00:00:00	Sakshi	Smartphone	Electronics	Pune	West	Anjali	6	28115.05	0.2	121555.45	Card	4
+ORD10644	2026-11-26 00:00:00	Pooja	Bookshelf	Furniture	Mumbai	West	Rohan	2	9483.44	0.1	11862.02	UPI	3.5
+ORD10246	2026-11-29 00:00:00	Ananya	Perfume	Beauty	Bengaluru	South	Neha	1	1694.93	0.1	1125.77	Cash	4.5
+ORD10577	2026-11-30 00:00:00	Manish	Monitor	Electronics	Patna	East	Neha	11	13202.94	0	109770.22	UPI	3.5
+ORD10916	2026-11-30 00:00:00	Aditi	T-Shirt	Clothing	Kolkata	East	Anjali	6	1289.08	0.25	3738.86	UPI	4
+ORD10881	2026-11-30 00:00:00	Akash	Keyboard	Electronics	Lucknow	North	Vikram	4	2256.95	0.05	5167.69	UPI	3.5
+ORD10605	2026-11-30 00:00:00	Sanya	Headphones	Electronics	Mumbai	West	Anjali	2	3302.74	0.15	4362.05	Card	2.5
+ORD10921	2026-12-02 00:00:00	Pooja	Shampoo	Beauty	Bengaluru	South	Amit	9	524.51	0.05	3070.73	Card	4
+ORD10971	2026-12-03 00:00:00	Kavya	Cooking Oil	Grocery	Jaipur	North	Pooja	2	171.16	0.25	275.44	UPI	3
+ORD10886	2026-12-03 00:00:00	Tanya	Monitor	Electronics	Bengaluru	South	Anjali	3	14504.21	0.2	27203.82	Card	3.5
+ORD10493	2026-12-05 00:00:00	Sakshi	Desk	Furniture	Ahmedabad	West	Priya	15	15447.78	0.2	148498.66	UPI	4.5
+ORD10841	2026-12-09 00:00:00	Rahul	Laptop	Electronics	Lucknow	North	Rohan	9	61653.92	0.2	457217.45	UPI	4.5
+ORD10646	2026-12-10 00:00:00	Arjun	Shampoo	Beauty	Kolkata	East	Karan	5	562.52	0.15	1787.76	UPI	3
+ORD10624	2026-12-10 00:00:00	Tanvi	Jeans	Clothing	Kolkata	East	Anjali	2	2630.15	0.1	2963.66	Card	3
+ORD10989	2026-12-13 00:00:00	Ishaan	Office Chair	Furniture	Mumbai	West	Amit	2	12025.42	0.15	16167.38	Cash	4.5
+ORD10872	2026-12-13 00:00:00	Manish	Office Chair	Furniture	Kolkata	East	Priya	4	11173.46	0	33813.12	Card	4
+ORD10346	2026-12-14 00:00:00	Zoya	Rice 5kg	Grocery	Hyderabad	South	Amit	7	469.2	0.05	2588.05	UPI	4
+ORD10263	2026-12-15 00:00:00	Aditi	Headphones	Electronics	Patna	East	Priya	8	3314.23	0.1	17772.45	Card	5
+ORD10062	2026-12-15 00:00:00	Arjun	Office Chair	Furniture	Mumbai	West	Amit	5	12413.31	0.1	40272.32	Card	4
+ORD10943	2026-12-15 00:00:00	Varun	Cooking Oil	Grocery	Patna	East	Amit	10	177.73	0.1	1280.1	UPI	3.5
+ORD10657	2026-12-16 00:00:00	Karan	Desk	Furniture	Ahmedabad	West	Sneha	1	15382.67	0	10497.35	UPI	3
+ORD10523	2026-12-17 00:00:00	Zoya	Moisturizer	Beauty	Kolkata	East	Rahul	14	647.45	0.1	6104.86	UPI	4
+ORD10438	2026-12-17 00:00:00	Tanvi	Face Wash	Beauty	Hyderabad	South	Anjali	12	485.95	0	3266.46	Online	5
+ORD10903	2026-12-18 00:00:00	Manish	Keyboard	Electronics	Jaipur	North	Karan	10	2358.42	0.1	12499.93	Cash	3.5
+ORD10420	2026-12-19 00:00:00	Kavya	Coffee	Grocery	Jaipur	North	Sneha	15	570.6	0	5810.6	Card	3
+ORD10477	2026-12-20 00:00:00	Akash	Smartphone	Electronics	Lucknow	North	Neha	5	29997.84	0	100112.44	UPI	4
+ORD10112	2026-12-20 00:00:00	Kavya	Monitor	Electronics	Pune	West	Sneha	2	12964.12	0.1	18580.49	Online	2.5
+ORD10829	2026-12-21 00:00:00	Aarav	Tea	Grocery	Bhubaneswar	East	Karan	3	304.12	0.1	605.78	Card	3.5
+ORD10958	2026-12-21 00:00:00	Ishaan	Smartphone	Electronics	Hyderabad	South	Karan	7	31681.28	0.1	150640.35	Online	4.5
+ORD10868	2026-12-21 00:00:00	Arjun	Keyboard	Electronics	Bengaluru	South	Sneha	12	2116.6	0.05	15742.42	UPI	3
+ORD10681	2026-12-22 00:00:00	Pooja	Face Wash	Beauty	Pune	West	Rohan	1	481.98	0.15	290.48	Online	4
+ORD10216	2026-12-22 00:00:00	Rohan	Office Chair	Furniture	Chennai	South	Priya	2	12128.89	0.1	16117.41	Online	4.5
+ORD10489	2026-12-22 00:00:00	Neha	Moisturizer	Beauty	Patna	East	Rohan	6	710.52	0.1	2471.15	Cash	3
+ORD10712	2026-12-22 00:00:00	Tanvi	Backpack	Clothing	Bengaluru	South	Anjali	2	1909.51	0	2110.62	Cash	3.5
+ORD10337	2026-12-22 00:00:00	Ananya	Face Wash	Beauty	Delhi	North	Rahul	2	457.76	0.2	562.56	UPI	5
+ORD10663	2026-12-23 00:00:00	Manish	Backpack	Clothing	Bhubaneswar	East	Karan	3	1907.3	0	3002.75	Card	3.5
+ORD10924	2026-12-23 00:00:00	Rahul	Dry Fruits	Grocery	Ahmedabad	West	Pooja	1	887.96	0.15	646.17	UPI	3.5
+ORD10891	2026-12-26 00:00:00	Varun	Tea	Grocery	Mumbai	West	Rohan	7	308.21	0.05	1410.06	Online	5
+ORD10979	2026-12-26 00:00:00	Aarav	Jacket	Clothing	Jaipur	North	Sneha	11	4789.53	0.15	31187.81	Online	3
+ORD10680	2026-12-27 00:00:00	Aditi	Shampoo	Beauty	Pune	West	Pooja	1	532.02	0	353.4	Online	4
+ORD10311	2026-12-27 00:00:00	Riya	T-Shirt	Clothing	Jaipur	North	Neha	6	1139.45	0.15	3825.63	Online	2.5
+ORD10041	2026-12-27 00:00:00	Aarav	Headphones	Electronics	Jaipur	North	Priya	3	3574.18	0.05	6432.33	Card	4.5
+ORD10504	2026-12-28 00:00:00	Aditi	Face Wash	Beauty	Patna	East	Anjali	5	476.18	0.05	1429.24	Cash	5
+ORD10754	2026-12-29 00:00:00	Priya	Bookshelf	Furniture	Ahmedabad	West	Sneha	1	9289.18	0.15	6097.06	Card	3.5
+ORD10530	2026-12-31 00:00:00	Rohan	Shampoo	Beauty	Jaipur	North	Amit	8	542.75	0.05	2879.52	Card	4
