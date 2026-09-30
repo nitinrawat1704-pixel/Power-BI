@@ -1,0 +1,13 @@
+Product Sales % = DIVIDE([ttl sales],CALCULATE([ttl sales],ALL(Sales[Product])))
+
+city sales% = DIVIDE([ttl sales],CALCULATE([ttl sales],Sales[City]))
+
+profit margin = DIVIDE([total profit],[ttl sales])
+
+discount percentage = DIVIDE(SUM(Sales[Discount]),[ttl sales])
+
+highest selling product = TOPN(1,SUMMARIZE(Sales,Sales[Product],"amount",[ttl sales]),[amount],DESC) 	
+
+highest PROFIT city = TOPN(1,SUMMARIZE(Sales,Sales[City],"amount",[total profit]),[amount],DESC)
+
+highest sale salesperson = TOPN(1,SUMMARIZE(Sales,Sales[Salesperson],"amount",[ttl sales]),[amount],DESC)
